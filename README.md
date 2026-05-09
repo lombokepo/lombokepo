@@ -30,8 +30,8 @@ Dengan semangat jurnalisme independen, kami berupaya menyajikan berita yang beri
 - *Email:* redaksi@lombokepo.site
 - *WhatsApp:* 0815-2963-9287
 
-### 🌐 Hubungi Kami
-[Website Resmi](https://www.lombokepo.site) | [Facebook](https://facebook.com/lombokepo) | [Instagram](https://instagram.com/lombokepo) | [LinkedIn](https://linkedin.com/in/lombokepo) | [X](https://x.com/lombokepo)
+### 🌐 Platform Digital
+[Website Resmi](https://www.lombokepo.site) | [Facebook](https://facebook.com/lombokepo) | [Instagram](https://instagram.com/lombokepo) | [LinkedIn](https://linkedin.com/in/lombokepo) | [X](https://x.com/lombokepo) | [Tiktok](https://www.tiktok.com/@lombokepo)
 
 ---
 Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
