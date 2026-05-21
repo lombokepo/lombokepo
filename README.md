@@ -44,3 +44,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 * [Windi Marlini Pimpin Dharma Wanita Persatuan Ntb](https://www.lombokepo.site/2026/04/windi-marlini-pimpin-dharma-wanita-persatuan-ntb.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo_
+
+## 📰 Berita NTB Terbaru
+* [Kapolda Ntb Kalingga Rendra Raharja Disambut Forkopimda Ntb](https://www.lombokepo.site/2026/05/kapolda-ntb-kalingga-rendra-raharja-disambut-forkopimda-ntb.html)
+* [Tpid Ntb Pantau Harga Pangan Jelang Idul Adha](https://www.lombokepo.site/2026/05/tpid-ntb-pantau-harga-pangan-jelang-idul-adha.html)
+* [Kontes Bonsai Road To The Max Mataram](https://www.lombokepo.site/2026/05/kontes-bonsai-road-to-the-max-mataram.html)
+* [Sekar Geni Rua Rasa Lombok](https://www.lombokepo.site/2026/05/sekar-geni-rua-rasa-lombok.html)
+* [Ditbinmas Polda Ntb Ajak Nelayan Jaga Kamtibmas](https://www.lombokepo.site/2026/05/ditbinmas-polda-ntb-ajak-nelayan-jaga-kamtibmas.html)
+
+_Diperbarui otomatis oleh sistem backend Lombokepo_
