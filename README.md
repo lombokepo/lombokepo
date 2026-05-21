@@ -36,14 +36,6 @@ Dengan semangat jurnalisme independen, kami berupaya menyajikan berita yang beri
 ---
 Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
-## 📰 Berita & Liputan Terbaru
-* [Ott Lotim Tramadol Ilegal Bbpom Mataram](https://www.lombokepo.site/2026/04/ott-lotim-tramadol-ilegal-bbpom-mataram.html)
-* [Operasi Mata Gratis Ntb Pemprov Gandeng Yayasan Australia](https://www.lombokepo.site/2026/04/operasi-mata-gratis-ntb-pemprov-gandeng-yayasan-australia.html)
-* [Ekonomi Syariah Ntb Jadi Rujukan Bprs Nasional](https://www.lombokepo.site/2026/04/ekonomi-syariah-ntb-jadi-rujukan-bprs-nasional.html)
-* [Gubernur Ntb Lepas Jamaah Haji Kloter I](https://www.lombokepo.site/2026/04/gubernur-ntb-lepas-jamaah-haji-kloter-i.html)
-* [Windi Marlini Pimpin Dharma Wanita Persatuan Ntb](https://www.lombokepo.site/2026/04/windi-marlini-pimpin-dharma-wanita-persatuan-ntb.html)
-
-_Diperbarui otomatis oleh sistem backend Lombokepo_
 
 ## 📰 Berita NTB Terbaru
 * [Kapolda Ntb Kalingga Rendra Raharja Disambut Forkopimda Ntb](https://www.lombokepo.site/2026/05/kapolda-ntb-kalingga-rendra-raharja-disambut-forkopimda-ntb.html)
@@ -52,4 +44,4 @@ _Diperbarui otomatis oleh sistem backend Lombokepo_
 * [Sekar Geni Rua Rasa Lombok](https://www.lombokepo.site/2026/05/sekar-geni-rua-rasa-lombok.html)
 * [Ditbinmas Polda Ntb Ajak Nelayan Jaga Kamtibmas](https://www.lombokepo.site/2026/05/ditbinmas-polda-ntb-ajak-nelayan-jaga-kamtibmas.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 21 May 2026_
