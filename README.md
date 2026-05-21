@@ -28,7 +28,7 @@ Dengan semangat jurnalisme independen, kami berupaya menyajikan berita yang beri
 - *Penanggung Jawab:* Sulhadi
 - *Pimpinan Redaksi:* Lalu Habib Fadil, S.Pd. (UKW Utama)
 - *Email:* redaksi@lombokepo.site
-- *WhatsApp:* 085878049809  | 0858-7804-9809 
+- *WhatsApp:* 0815-2963-9287 | 0858-7804-9809 
 
 ### 🌐 Platform Digital
 [Website Resmi](https://www.lombokepo.site) | [Facebook](https://facebook.com/lombokepo) | [Instagram](https://instagram.com/lombokepo) | [LinkedIn](https://linkedin.com/in/lombokepo) | [X](https://x.com/lombokepo) | [Tiktok](https://www.tiktok.com/@lombokepo)
