@@ -35,3 +35,12 @@ Dengan semangat jurnalisme independen, kami berupaya menyajikan berita yang beri
 
 ---
 Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
+
+## 📰 Berita & Liputan Terbaru
+* [Ott Lotim Tramadol Ilegal Bbpom Mataram](https://www.lombokepo.site/2026/04/ott-lotim-tramadol-ilegal-bbpom-mataram.html)
+* [Operasi Mata Gratis Ntb Pemprov Gandeng Yayasan Australia](https://www.lombokepo.site/2026/04/operasi-mata-gratis-ntb-pemprov-gandeng-yayasan-australia.html)
+* [Ekonomi Syariah Ntb Jadi Rujukan Bprs Nasional](https://www.lombokepo.site/2026/04/ekonomi-syariah-ntb-jadi-rujukan-bprs-nasional.html)
+* [Gubernur Ntb Lepas Jamaah Haji Kloter I](https://www.lombokepo.site/2026/04/gubernur-ntb-lepas-jamaah-haji-kloter-i.html)
+* [Windi Marlini Pimpin Dharma Wanita Persatuan Ntb](https://www.lombokepo.site/2026/04/windi-marlini-pimpin-dharma-wanita-persatuan-ntb.html)
+
+_Diperbarui otomatis oleh sistem backend Lombokepo_
