@@ -39,11 +39,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [8 Program Prioritas Kapolda Ntb Asta Cita](https://www.lombokepo.site/2026/05/8-program-prioritas-kapolda-ntb-asta-cita.html)
+* [Kontes Bonsai Nasional The Max Mataram](https://www.lombokepo.site/2026/05/kontes-bonsai-nasional-the-max-mataram.html)
 * [Pemprov Ntb Sahkan Perda Pajak Pad Naik](https://www.lombokepo.site/2026/05/pemprov-ntb-sahkan-perda-pajak-pad-naik.html)
 * [Kapolda Ntb Kalingga Rendra Raharja Disambut Forkopimda Ntb](https://www.lombokepo.site/2026/05/kapolda-ntb-kalingga-rendra-raharja-disambut-forkopimda-ntb.html)
 * [Tpid Ntb Pantau Harga Pangan Jelang Idul Adha](https://www.lombokepo.site/2026/05/tpid-ntb-pantau-harga-pangan-jelang-idul-adha.html)
-* [Kontes Bonsai Road To The Max Mataram](https://www.lombokepo.site/2026/05/kontes-bonsai-road-to-the-max-mataram.html)
-* [Sekar Geni Rua Rasa Lombok](https://www.lombokepo.site/2026/05/sekar-geni-rua-rasa-lombok.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 21 May 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 22 May 2026_
