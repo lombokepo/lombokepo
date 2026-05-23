@@ -42,6 +42,7 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
 * [Pemprov Ntb Perluas Mbg Ntb](https://www.lombokepo.site/2026/05/pemprov-ntb-perluas-mbg-ntb.html)
 * [8 Program Prioritas Kapolda Ntb Asta Cita](https://www.lombokepo.site/2026/05/8-program-prioritas-kapolda-ntb-asta-cita.html)
@@ -49,4 +50,4 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 * [Pemprov Ntb Sahkan Perda Pajak Pad Naik](https://www.lombokepo.site/2026/05/pemprov-ntb-sahkan-perda-pajak-pad-naik.html)
 * [Kapolda Ntb Kalingga Rendra Raharja Disambut Forkopimda Ntb](https://www.lombokepo.site/2026/05/kapolda-ntb-kalingga-rendra-raharja-disambut-forkopimda-ntb.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 22 May 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 23 May 2026_
