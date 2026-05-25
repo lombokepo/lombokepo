@@ -48,11 +48,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Pemprov Ntb Bps Sensus Ekonomi 2026](https://www.lombokepo.site/2026/05/pemprov-ntb-bps-sensus-ekonomi-2026.html)
+* [Bank Ntb Syariah Tegaskan Pembiayaan Sesuai Ketentuan](https://www.lombokepo.site/2026/05/bank-ntb-syariah-tegaskan-pembiayaan-sesuai-ketentuan.html)
+* [Desa Berdaya Ntb Perkuat Ekonomi Desa](https://www.lombokepo.site/2026/05/desa-berdaya-ntb-perkuat-ekonomi-desa.html)
 * [Ramalan Zodiak Bintang Sasambo Mingguan 25 31 Mei](https://www.lombokepo.site/2026/05/ramalan-zodiak-bintang-sasambo-mingguan-25-31-mei.html)
 * [Densus 88 Cegah Radikalisme Smpn 4 Gunungsari](https://www.lombokepo.site/2026/05/densus-88-cegah-radikalisme-smpn-4-gunungsari.html)
-* [Kompetisi Housekeeping Ihka Ntb 2026](https://www.lombokepo.site/2026/05/kompetisi-housekeeping-ihka-ntb-2026.html)
-* [Pemprov Ntb Perluas Mbg Ntb](https://www.lombokepo.site/2026/05/pemprov-ntb-perluas-mbg-ntb.html)
-* [8 Program Prioritas Kapolda Ntb Asta Cita](https://www.lombokepo.site/2026/05/8-program-prioritas-kapolda-ntb-asta-cita.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 24 May 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 25 May 2026_
