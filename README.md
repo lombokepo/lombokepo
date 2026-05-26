@@ -51,11 +51,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Pemprov Ntb Dukung Lima Raperda Dprd](https://www.lombokepo.site/2026/05/pemprov-ntb-dukung-lima-raperda-dprd.html)
 * [Korem 162 Wb Gelar Karya Bakti Di Loang Baloq](https://www.lombokepo.site/2026/05/korem-162-wb-gelar-karya-bakti-di-loang-baloq.html)
 * [Daftar Juara Ihka Ntb 2026](https://www.lombokepo.site/2026/05/daftar-juara-ihka-ntb-2026.html)
 * [Pemprov Ntb Bps Sensus Ekonomi 2026](https://www.lombokepo.site/2026/05/pemprov-ntb-bps-sensus-ekonomi-2026.html)
 * [Bank Ntb Syariah Tegaskan Pembiayaan Sesuai Ketentuan](https://www.lombokepo.site/2026/05/bank-ntb-syariah-tegaskan-pembiayaan-sesuai-ketentuan.html)
-* [Desa Berdaya Ntb Perkuat Ekonomi Desa](https://www.lombokepo.site/2026/05/desa-berdaya-ntb-perkuat-ekonomi-desa.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 25 May 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 26 May 2026_
