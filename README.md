@@ -53,11 +53,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Idul Adha Bumi Gora Ntb Kepedulian Sosial](https://www.lombokepo.site/2026/05/idul-adha-bumi-gora-ntb-kepedulian-sosial.html)
+* [Polda Ntb Salurkan Hewan Kurban Idul Adha 1447 H](https://www.lombokepo.site/2026/05/polda-ntb-salurkan-hewan-kurban-idul-adha-1447-h.html)
+* [Arga Kelayu Potong 40 Sapi Kurban](https://www.lombokepo.site/2026/05/arga-kelayu-potong-40-sapi-kurban.html)
 * [Wagub Ntb Apbn Keadilan Pembangunan](https://www.lombokepo.site/2026/05/wagub-ntb-apbn-keadilan-pembangunan.html)
 * [Polda Ntb Latih Satpam Pertamina Ampenan](https://www.lombokepo.site/2026/05/polda-ntb-latih-satpam-pertamina-ampenan.html)
-* [Pemprov Ntb Dukung Lima Raperda Dprd](https://www.lombokepo.site/2026/05/pemprov-ntb-dukung-lima-raperda-dprd.html)
-* [Korem 162 Wb Gelar Karya Bakti Di Loang Baloq](https://www.lombokepo.site/2026/05/korem-162-wb-gelar-karya-bakti-di-loang-baloq.html)
-* [Daftar Juara Ihka Ntb 2026](https://www.lombokepo.site/2026/05/daftar-juara-ihka-ntb-2026.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 26 May 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 27 May 2026_
