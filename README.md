@@ -60,11 +60,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Pocari Sweat Run 2026 Dekat Sekda Ntb](https://www.lombokepo.site/2026/05/pocari-sweat-run-2026-dekat-sekda-ntb.html)
+* [Dugaan Penipuan Dapur Mbg Lombok Timur](https://www.lombokepo.site/2026/05/dugaan-penipuan-dapur-mbg-lombok-timur.html)
 * [Porprov Ntb 2026 Target Pon 2028](https://www.lombokepo.site/2026/05/porprov-ntb-2026-target-pon-2028.html)
 * [Aksi Kurban Idul Adha Psi Mataram Sandubaya](https://www.lombokepo.site/2026/05/aksi-kurban-idul-adha-psi-mataram-sandubaya.html)
 * [Ultah Psn 27 108 Pemangku Ntb Doa Bersama](https://www.lombokepo.site/2026/05/ultah-psn-27-108-pemangku-ntb-doa-bersama.html)
-* [Mengenal Ihka Ntb Asosiasi Housekeeper Hotel](https://www.lombokepo.site/2026/05/mengenal-ihka-ntb-asosiasi-housekeeper-hotel.html)
-* [Idul Adha Bumi Gora Ntb Kepedulian Sosial](https://www.lombokepo.site/2026/05/idul-adha-bumi-gora-ntb-kepedulian-sosial.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 29 May 2026_
