@@ -63,11 +63,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Program Desa Berdaya Ntb Lombok Timur Rp300 Juta](https://www.lombokepo.site/2026/05/program-desa-berdaya-ntb-lombok-timur-rp300-juta.html)
 * [Pemprov Ntb Kawal Program Mbg Ekonomi Kerakyatan](https://www.lombokepo.site/2026/05/pemprov-ntb-kawal-program-mbg-ekonomi-kerakyatan.html)
 * [Pocari Sweat Run 2026 Dekat Sekda Ntb](https://www.lombokepo.site/2026/05/pocari-sweat-run-2026-dekat-sekda-ntb.html)
 * [Dugaan Penipuan Dapur Mbg Lombok Timur](https://www.lombokepo.site/2026/05/dugaan-penipuan-dapur-mbg-lombok-timur.html)
 * [Porprov Ntb 2026 Target Pon 2028](https://www.lombokepo.site/2026/05/porprov-ntb-2026-target-pon-2028.html)
-* [Aksi Kurban Idul Adha Psi Mataram Sandubaya](https://www.lombokepo.site/2026/05/aksi-kurban-idul-adha-psi-mataram-sandubaya.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 30 May 2026_
