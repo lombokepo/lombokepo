@@ -68,11 +68,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Mada Maharani Juara Putri Hijabfluencer Ntb 2026](https://www.lombokepo.site/2026/06/mada-maharani-juara-putri-hijabfluencer-ntb-2026.html)
+* [Gubernur Ntb Pancasila Fondasi Perdamaian Dunia](https://www.lombokepo.site/2026/06/gubernur-ntb-pancasila-fondasi-perdamaian-dunia.html)
 * [Grand Final Putri Hijabfluencer Ntb 2026](https://www.lombokepo.site/2026/05/grand-final-putri-hijabfluencer-ntb-2026.html)
 * [Patroli Rinjani Presisi Ntb](https://www.lombokepo.site/2026/05/patroli-rinjani-presisi-ntb.html)
 * [Sekda Ntb Lepas 550 Pelari Road To Mataram](https://www.lombokepo.site/2026/05/sekda-ntb-lepas-550-pelari-road-to-mataram.html)
-* [Polda Ntb Ungkap 184 Kasus 3C Januari Mei 2026](https://www.lombokepo.site/2026/05/polda-ntb-ungkap-184-kasus-3c-januari-mei-2026.html)
-* [Program Desa Berdaya Ntb Lombok Timur Rp300 Juta](https://www.lombokepo.site/2026/05/program-desa-berdaya-ntb-lombok-timur-rp300-juta.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 31 May 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 01 June 2026_
