@@ -71,11 +71,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Jemaah Haji Kloter 1 Lombok Timur Tiba Di Ntb](https://www.lombokepo.site/2026/06/jemaah-haji-kloter-1-lombok-timur-tiba-di-ntb.html)
+* [Kapolda Ntb Tinjau Polres Bima Kota](https://www.lombokepo.site/2026/06/kapolda-ntb-tinjau-polres-bima-kota.html)
+* [Densus 88 Edukasi 100 Siswa Smpn 3 Gunungsari](https://www.lombokepo.site/2026/06/densus-88-edukasi-100-siswa-smpn-3-gunungsari.html)
 * [Kapolda Ntb Hari Lahir Pancasila](https://www.lombokepo.site/2026/06/kapolda-ntb-hari-lahir-pancasila.html)
 * [Dugaan Korupsi Mebelair Dikbud Ntb 2022 Tersangka Bantah](https://www.lombokepo.site/2026/06/dugaan-korupsi-mebelair-dikbud-ntb-2022-tersangka-bantah.html)
-* [Mada Maharani Juara Putri Hijabfluencer Ntb 2026](https://www.lombokepo.site/2026/06/mada-maharani-juara-putri-hijabfluencer-ntb-2026.html)
-* [Gubernur Ntb Pancasila Fondasi Perdamaian Dunia](https://www.lombokepo.site/2026/06/gubernur-ntb-pancasila-fondasi-perdamaian-dunia.html)
-* [Grand Final Putri Hijabfluencer Ntb 2026](https://www.lombokepo.site/2026/05/grand-final-putri-hijabfluencer-ntb-2026.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 01 June 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 02 June 2026_
