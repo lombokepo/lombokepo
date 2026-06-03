@@ -73,6 +73,7 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
 * [Sukirman Jaga Kondusivitas Bima](https://www.lombokepo.site/2026/06/sukirman-jaga-kondusivitas-bima.html)
 * [Ranperda Konversi Bpr Syariah Ntb](https://www.lombokepo.site/2026/06/ranperda-konversi-bpr-syariah-ntb.html)
@@ -80,4 +81,4 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 * [Jemaah Haji Kloter 1 Lombok Timur Tiba Di Ntb](https://www.lombokepo.site/2026/06/jemaah-haji-kloter-1-lombok-timur-tiba-di-ntb.html)
 * [Kapolda Ntb Tinjau Polres Bima Kota](https://www.lombokepo.site/2026/06/kapolda-ntb-tinjau-polres-bima-kota.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 02 June 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 03 June 2026_
