@@ -77,11 +77,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Kapolda Ntb Kunjungi Polres Sumbawa](https://www.lombokepo.site/2026/06/kapolda-ntb-kunjungi-polres-sumbawa.html)
 * [Sekda Ntb Layanan Kebencanaan](https://www.lombokepo.site/2026/06/sekda-ntb-layanan-kebencanaan.html)
 * [Wagub Ntb Dorong Pemuda Penggerak Pendidikan](https://www.lombokepo.site/2026/06/wagub-ntb-dorong-pemuda-penggerak-pendidikan.html)
 * [Daya Beli Petani Ntb Menguat Ntp 130 44 Mei 2026](https://www.lombokepo.site/2026/06/daya-beli-petani-ntb-menguat-ntp-130-44-mei-2026.html)
 * [Harmoni Kebaikan Sumbawa Dukung Prabowo Gibran](https://www.lombokepo.site/2026/06/harmoni-kebaikan-sumbawa-dukung-prabowo-gibran.html)
-* [Sukirman Jaga Kondusivitas Bima](https://www.lombokepo.site/2026/06/sukirman-jaga-kondusivitas-bima.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 03 June 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 04 June 2026_
