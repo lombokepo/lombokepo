@@ -80,11 +80,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Bpk Ri Apresiasi Pemprov Ntb](https://www.lombokepo.site/2026/06/bpk-ri-apresiasi-pemprov-ntb.html)
+* [Jemaah Haji Kloter 3 Lombok Barat Tiba](https://www.lombokepo.site/2026/06/jemaah-haji-kloter-3-lombok-barat-tiba.html)
+* [Utang Blud Ntb Tuntas](https://www.lombokepo.site/2026/06/utang-blud-ntb-tuntas.html)
 * [Korem 162Wb Perkuat Sinergi Tni Dan](https://www.lombokepo.site/2026/06/korem-162wb-perkuat-sinergi-tni-dan.html)
 * [Ntb Gerakan 1000 Paralegal Akses Keadilan Desa](https://www.lombokepo.site/2026/06/ntb-gerakan-1000-paralegal-akses-keadilan-desa.html)
-* [Sidang Pn Mataram Pledoi Radit Kasus Vira](https://www.lombokepo.site/2026/06/sidang-pn-mataram-pledoi-radit-kasus-vira.html)
-* [Ntb Voice For Equality Ntb](https://www.lombokepo.site/2026/06/ntb-voice-for-equality-ntb.html)
-* [Kapolda Ntb Kunjungi Polres Sumbawa](https://www.lombokepo.site/2026/06/kapolda-ntb-kunjungi-polres-sumbawa.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 04 June 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 05 June 2026_
