@@ -81,11 +81,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Tower Telekomunikasi Di Buleleng](https://www.lombokepo.site/2026/06/tower-telekomunikasi-di-buleleng.html)
+* [Gpm Ntb Taman Ayu Miskin Ekstrem](https://www.lombokepo.site/2026/06/gpm-ntb-taman-ayu-miskin-ekstrem.html)
 * [Bpk Ri Apresiasi Pemprov Ntb](https://www.lombokepo.site/2026/06/bpk-ri-apresiasi-pemprov-ntb.html)
 * [Jemaah Haji Kloter 3 Lombok Barat Tiba](https://www.lombokepo.site/2026/06/jemaah-haji-kloter-3-lombok-barat-tiba.html)
 * [Utang Blud Ntb Tuntas](https://www.lombokepo.site/2026/06/utang-blud-ntb-tuntas.html)
-* [Korem 162Wb Perkuat Sinergi Tni Dan](https://www.lombokepo.site/2026/06/korem-162wb-perkuat-sinergi-tni-dan.html)
-* [Ntb Gerakan 1000 Paralegal Akses Keadilan Desa](https://www.lombokepo.site/2026/06/ntb-gerakan-1000-paralegal-akses-keadilan-desa.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 05 June 2026_
