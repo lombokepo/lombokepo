@@ -83,6 +83,7 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
 * [Jpu Tolak Pledoi Radiet Kasus Pantai Nipah](https://www.lombokepo.site/2026/06/jpu-tolak-pledoi-radiet-kasus-pantai-nipah.html)
 * [Tower Telekomunikasi Di Buleleng](https://www.lombokepo.site/2026/06/tower-telekomunikasi-di-buleleng.html)
@@ -90,4 +91,4 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 * [Bpk Ri Apresiasi Pemprov Ntb](https://www.lombokepo.site/2026/06/bpk-ri-apresiasi-pemprov-ntb.html)
 * [Jemaah Haji Kloter 3 Lombok Barat Tiba](https://www.lombokepo.site/2026/06/jemaah-haji-kloter-3-lombok-barat-tiba.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 05 June 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 06 June 2026_
