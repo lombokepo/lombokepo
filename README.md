@@ -86,6 +86,7 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
 * [Ntb Perkuat Pembangunan Hijau Gerakan Indonesia Asri](https://www.lombokepo.site/2026/06/ntb-perkuat-pembangunan-hijau-gerakan-indonesia-asri.html)
 * [Jpu Tolak Pledoi Radiet Kasus Pantai Nipah](https://www.lombokepo.site/2026/06/jpu-tolak-pledoi-radiet-kasus-pantai-nipah.html)
@@ -93,4 +94,4 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 * [Gpm Ntb Taman Ayu Miskin Ekstrem](https://www.lombokepo.site/2026/06/gpm-ntb-taman-ayu-miskin-ekstrem.html)
 * [Bpk Ri Apresiasi Pemprov Ntb](https://www.lombokepo.site/2026/06/bpk-ri-apresiasi-pemprov-ntb.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 06 June 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 07 June 2026_
