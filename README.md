@@ -89,11 +89,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [11 Jemaah Haji Ntb Wafat Di Tanah Suci](https://www.lombokepo.site/2026/06/11-jemaah-haji-ntb-wafat-di-tanah-suci.html)
+* [Operasi Patuh 2026 Ditunda Polda Ntb](https://www.lombokepo.site/2026/06/operasi-patuh-2026-ditunda-polda-ntb.html)
+* [Polairud Ntb Imbau Keselamatan Wisatawan Pantai Kuta Mandalika](https://www.lombokepo.site/2026/06/polairud-ntb-imbau-keselamatan-wisatawan-pantai-kuta-mandalika.html)
 * [1963 Jemaah Haji Ntb Tiba Debarkasi Lombok](https://www.lombokepo.site/2026/06/1963-jemaah-haji-ntb-tiba-debarkasi-lombok.html)
 * [Lagu Polisi Indonesia Bhayangkara 80 Ntb](https://www.lombokepo.site/2026/06/lagu-polisi-indonesia-bhayangkara-80-ntb.html)
-* [Ntb Perkuat Pembangunan Hijau Gerakan Indonesia Asri](https://www.lombokepo.site/2026/06/ntb-perkuat-pembangunan-hijau-gerakan-indonesia-asri.html)
-* [Jpu Tolak Pledoi Radiet Kasus Pantai Nipah](https://www.lombokepo.site/2026/06/jpu-tolak-pledoi-radiet-kasus-pantai-nipah.html)
-* [Tower Telekomunikasi Di Buleleng](https://www.lombokepo.site/2026/06/tower-telekomunikasi-di-buleleng.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 07 June 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 08 June 2026_
