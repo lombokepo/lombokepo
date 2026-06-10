@@ -96,11 +96,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Pemprov Ntb Dan Asita Perkuat Sinergi Pariwisata Mendunia](https://www.lombokepo.site/2026/06/pemprov-ntb-dan-asita-perkuat-sinergi-pariwisata-mendunia.html)
+* [Imigrasi Lotim Persadin Ntb Perkuat Sinergi](https://www.lombokepo.site/2026/06/imigrasi-lotim-persadin-ntb-perkuat-sinergi.html)
+* [Polda Ntb Gelar Lomba Satpam Teladan Hari Bhayangkara 80](https://www.lombokepo.site/2026/06/polda-ntb-gelar-lomba-satpam-teladan-hari-bhayangkara-80.html)
 * [Klaim Asuransi Jemaah Haji Ntb](https://www.lombokepo.site/2026/06/klaim-asuransi-jemaah-haji-ntb.html)
 * [Gubernur Ntb Marwah Mtq Dewan Hakim Integritas](https://www.lombokepo.site/2026/06/gubernur-ntb-marwah-mtq-dewan-hakim-integritas.html)
-* [Opini Digitalisasi Aset Ntb](https://www.lombokepo.site/2026/06/opini-digitalisasi-aset-ntb.html)
-* [11 Jemaah Haji Ntb Wafat Di Tanah Suci](https://www.lombokepo.site/2026/06/11-jemaah-haji-ntb-wafat-di-tanah-suci.html)
-* [Operasi Patuh 2026 Ditunda Polda Ntb](https://www.lombokepo.site/2026/06/operasi-patuh-2026-ditunda-polda-ntb.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 10 June 2026_
