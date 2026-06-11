@@ -98,11 +98,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Anggaran 2027 Polda Ntb](https://www.lombokepo.site/2026/06/anggaran-2027-polda-ntb.html)
+* [Polri Tni Kawal Distribusi Bbm Di Ntb](https://www.lombokepo.site/2026/06/polri-tni-kawal-distribusi-bbm-di-ntb.html)
+* [Ditpamobvit Polda Ntb Kawal Distribusi Semen Indocement](https://www.lombokepo.site/2026/06/ditpamobvit-polda-ntb-kawal-distribusi-semen-indocement.html)
 * [Pemprov Ntb Dan Asita Perkuat Sinergi Pariwisata Mendunia](https://www.lombokepo.site/2026/06/pemprov-ntb-dan-asita-perkuat-sinergi-pariwisata-mendunia.html)
 * [Imigrasi Lotim Persadin Ntb Perkuat Sinergi](https://www.lombokepo.site/2026/06/imigrasi-lotim-persadin-ntb-perkuat-sinergi.html)
-* [Polda Ntb Gelar Lomba Satpam Teladan Hari Bhayangkara 80](https://www.lombokepo.site/2026/06/polda-ntb-gelar-lomba-satpam-teladan-hari-bhayangkara-80.html)
-* [Klaim Asuransi Jemaah Haji Ntb](https://www.lombokepo.site/2026/06/klaim-asuransi-jemaah-haji-ntb.html)
-* [Gubernur Ntb Marwah Mtq Dewan Hakim Integritas](https://www.lombokepo.site/2026/06/gubernur-ntb-marwah-mtq-dewan-hakim-integritas.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 10 June 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 11 June 2026_
