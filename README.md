@@ -102,11 +102,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Bank Ntb Syariah Dukung E Ticketing Senggigi](https://www.lombokepo.site/2026/06/bank-ntb-syariah-dukung-e-ticketing-senggigi.html)
+* [Ai Posyandu Ntb Deteksi Dini Kesehatan Ibu Anak](https://www.lombokepo.site/2026/06/ai-posyandu-ntb-deteksi-dini-kesehatan-ibu-anak.html)
 * [Radit Divonis 6 Tahun Kasus Vaniradya](https://www.lombokepo.site/2026/06/radit-divonis-6-tahun-kasus-vaniradya.html)
 * [Anggaran 2027 Polda Ntb](https://www.lombokepo.site/2026/06/anggaran-2027-polda-ntb.html)
 * [Polri Tni Kawal Distribusi Bbm Di Ntb](https://www.lombokepo.site/2026/06/polri-tni-kawal-distribusi-bbm-di-ntb.html)
-* [Ditpamobvit Polda Ntb Kawal Distribusi Semen Indocement](https://www.lombokepo.site/2026/06/ditpamobvit-polda-ntb-kawal-distribusi-semen-indocement.html)
-* [Pemprov Ntb Dan Asita Perkuat Sinergi Pariwisata Mendunia](https://www.lombokepo.site/2026/06/pemprov-ntb-dan-asita-perkuat-sinergi-pariwisata-mendunia.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 12 June 2026_
