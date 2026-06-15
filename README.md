@@ -110,11 +110,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Biddokkes Polda Ntb Layanan Kesehatan Gratis](https://www.lombokepo.site/2026/06/biddokkes-polda-ntb-layanan-kesehatan-gratis.html)
+* [Pemprov Ntb Putihkan Tunggakan Pajak Kendaraan](https://www.lombokepo.site/2026/06/pemprov-ntb-putihkan-tunggakan-pajak-kendaraan.html)
 * [Psi Ntb Bentuk 1139 Dprt](https://www.lombokepo.site/2026/06/psi-ntb-bentuk-1139-dprt.html)
 * [Mtq Xxxi Ntb Masuki Babak Final](https://www.lombokepo.site/2026/06/mtq-xxxi-ntb-masuki-babak-final.html)
 * [Mtq Ntb 2026 Serambi Al Quran](https://www.lombokepo.site/2026/06/mtq-ntb-2026-serambi-al-quran.html)
-* [Psi Ntb Gelar Rakorwilsus Bentuk Dprt](https://www.lombokepo.site/2026/06/psi-ntb-gelar-rakorwilsus-bentuk-dprt.html)
-* [Ntb Perkuat Transformasi Kesehatan Digital](https://www.lombokepo.site/2026/06/ntb-perkuat-transformasi-kesehatan-digital.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 14 June 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 15 June 2026_
