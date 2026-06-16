@@ -112,11 +112,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Pemprov Ntb Muharram Momentum Tekan Kemiskinan](https://www.lombokepo.site/2026/06/pemprov-ntb-muharram-momentum-tekan-kemiskinan.html)
 * [Biddokkes Polda Ntb Layanan Kesehatan Gratis](https://www.lombokepo.site/2026/06/biddokkes-polda-ntb-layanan-kesehatan-gratis.html)
 * [Pemprov Ntb Putihkan Tunggakan Pajak Kendaraan](https://www.lombokepo.site/2026/06/pemprov-ntb-putihkan-tunggakan-pajak-kendaraan.html)
 * [Psi Ntb Bentuk 1139 Dprt](https://www.lombokepo.site/2026/06/psi-ntb-bentuk-1139-dprt.html)
 * [Mtq Xxxi Ntb Masuki Babak Final](https://www.lombokepo.site/2026/06/mtq-xxxi-ntb-masuki-babak-final.html)
-* [Mtq Ntb 2026 Serambi Al Quran](https://www.lombokepo.site/2026/06/mtq-ntb-2026-serambi-al-quran.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 16 June 2026_
