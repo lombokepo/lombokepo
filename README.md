@@ -118,11 +118,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Lsm Sumea Minta Pt Intam Libatkan Warga Lokal](https://www.lombokepo.site/2026/06/lsm-sumea-minta-pt-intam-libatkan-warga-lokal.html)
 * [Bbpom Mataram Kosmetik Ilegal](https://www.lombokepo.site/2026/06/bbpom-mataram-kosmetik-ilegal.html)
 * [Pemprov Ntb Muharram Momentum Tekan Kemiskinan](https://www.lombokepo.site/2026/06/pemprov-ntb-muharram-momentum-tekan-kemiskinan.html)
 * [Biddokkes Polda Ntb Layanan Kesehatan Gratis](https://www.lombokepo.site/2026/06/biddokkes-polda-ntb-layanan-kesehatan-gratis.html)
 * [Pemprov Ntb Putihkan Tunggakan Pajak Kendaraan](https://www.lombokepo.site/2026/06/pemprov-ntb-putihkan-tunggakan-pajak-kendaraan.html)
-* [Psi Ntb Bentuk 1139 Dprt](https://www.lombokepo.site/2026/06/psi-ntb-bentuk-1139-dprt.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 17 June 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 18 June 2026_
