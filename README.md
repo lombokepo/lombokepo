@@ -124,11 +124,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Kapolda Ntb Kunjungi Polres Loteng](https://www.lombokepo.site/2026/06/kapolda-ntb-kunjungi-polres-loteng.html)
+* [Gubernur Iqbal Dukung Sensus Ekonomi 2026 Ntb](https://www.lombokepo.site/2026/06/gubernur-iqbal-dukung-sensus-ekonomi-2026-ntb.html)
 * [Bank Ntb Syariah Kementerian Umkm Pks Kur](https://www.lombokepo.site/2026/06/bank-ntb-syariah-kementerian-umkm-pks-kur.html)
 * [Ummat 46 Tahun Good Governance](https://www.lombokepo.site/2026/06/ummat-46-tahun-good-governance.html)
 * [Umkm Ntb Ikuti Kurasi Program Uniqlo 2027](https://www.lombokepo.site/2026/06/umkm-ntb-ikuti-kurasi-program-uniqlo-2027.html)
-* [Lsm Sumea Minta Pt Intam Libatkan Warga Lokal](https://www.lombokepo.site/2026/06/lsm-sumea-minta-pt-intam-libatkan-warga-lokal.html)
-* [Bbpom Mataram Kosmetik Ilegal](https://www.lombokepo.site/2026/06/bbpom-mataram-kosmetik-ilegal.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 19 June 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 20 June 2026_
