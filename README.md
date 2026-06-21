@@ -128,11 +128,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Kloter 15 Tutup Pemulangan Jemaah Haji Ntb ](https://www.lombokepo.site/2026/06/kloter-15-tutup-pemulangan-jemaah-haji-ntb-.html)
 * [Pam Swakarsa Bayu Mandala Polresta Mataram](https://www.lombokepo.site/2026/06/pam-swakarsa-bayu-mandala-polresta-mataram.html)
 * [Kapolda Ntb Kunjungi Polres Loteng](https://www.lombokepo.site/2026/06/kapolda-ntb-kunjungi-polres-loteng.html)
 * [Gubernur Iqbal Dukung Sensus Ekonomi 2026 Ntb](https://www.lombokepo.site/2026/06/gubernur-iqbal-dukung-sensus-ekonomi-2026-ntb.html)
 * [Bank Ntb Syariah Kementerian Umkm Pks Kur](https://www.lombokepo.site/2026/06/bank-ntb-syariah-kementerian-umkm-pks-kur.html)
-* [Ummat 46 Tahun Good Governance](https://www.lombokepo.site/2026/06/ummat-46-tahun-good-governance.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 21 June 2026_
