@@ -132,11 +132,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Ntb Raih Penghargaan Bssn Ttis Kabupaten Kota](https://www.lombokepo.site/2026/06/ntb-raih-penghargaan-bssn-ttis-kabupaten-kota.html)
 * [Patroli Polda Ntb Jalan Udayana](https://www.lombokepo.site/2026/06/patroli-polda-ntb-jalan-udayana.html)
 * [Wtp Bukan Tujuan Akhir Pemerintah Ntb](https://www.lombokepo.site/2026/06/wtp-bukan-tujuan-akhir-pemerintah-ntb.html)
 * [Peluang Ntb Jadi Tuan Rumah Muktamar Nu](https://www.lombokepo.site/2026/06/peluang-ntb-jadi-tuan-rumah-muktamar-nu.html)
 * [Kloter 15 Tutup Pemulangan Jemaah Haji Ntb ](https://www.lombokepo.site/2026/06/kloter-15-tutup-pemulangan-jemaah-haji-ntb-.html)
-* [Pam Swakarsa Bayu Mandala Polresta Mataram](https://www.lombokepo.site/2026/06/pam-swakarsa-bayu-mandala-polresta-mataram.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 23 June 2026_
