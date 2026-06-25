@@ -137,11 +137,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Bbpom Mataram Edukasi Keamanan Pangan Umkm Ntb](https://www.lombokepo.site/2026/06/bbpom-mataram-edukasi-keamanan-pangan-umkm-ntb.html)
+* [Wagub Ntb Perbaikan Tata Kelola Apbd](https://www.lombokepo.site/2026/06/wagub-ntb-perbaikan-tata-kelola-apbd.html)
 * [Pemprov Ntb Perkuat Toleransi Beragama](https://www.lombokepo.site/2026/06/pemprov-ntb-perkuat-toleransi-beragama.html)
 * [Ntb Raih Penghargaan Bssn Ttis Kabupaten Kota](https://www.lombokepo.site/2026/06/ntb-raih-penghargaan-bssn-ttis-kabupaten-kota.html)
 * [Patroli Polda Ntb Jalan Udayana](https://www.lombokepo.site/2026/06/patroli-polda-ntb-jalan-udayana.html)
-* [Wtp Bukan Tujuan Akhir Pemerintah Ntb](https://www.lombokepo.site/2026/06/wtp-bukan-tujuan-akhir-pemerintah-ntb.html)
-* [Peluang Ntb Jadi Tuan Rumah Muktamar Nu](https://www.lombokepo.site/2026/06/peluang-ntb-jadi-tuan-rumah-muktamar-nu.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 24 June 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 25 June 2026_
