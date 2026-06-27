@@ -143,6 +143,7 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
 * [Koalisi Pemuda Ntb Desak Pimpinan Bulog Mundur](https://www.lombokepo.site/2026/06/koalisi-pemuda-ntb-desak-pimpinan-bulog-mundur.html)
 * [Porwada Pwi Ntb Perkuat Solidaritas Wartawan](https://www.lombokepo.site/2026/06/porwada-pwi-ntb-perkuat-solidaritas-wartawan.html)
@@ -150,4 +151,4 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 * [Bbpom Mataram Edukasi Keamanan Pangan Umkm Ntb](https://www.lombokepo.site/2026/06/bbpom-mataram-edukasi-keamanan-pangan-umkm-ntb.html)
 * [Wagub Ntb Perbaikan Tata Kelola Apbd](https://www.lombokepo.site/2026/06/wagub-ntb-perbaikan-tata-kelola-apbd.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 26 June 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 27 June 2026_
