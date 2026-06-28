@@ -148,11 +148,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Ew Lmnd Ntb Ajak Mahasiswa Jaga Kondusivitas](https://www.lombokepo.site/2026/06/ew-lmnd-ntb-ajak-mahasiswa-jaga-kondusivitas.html)
 * [Koalisi Pemuda Ntb Desak Pimpinan Bulog Mundur](https://www.lombokepo.site/2026/06/koalisi-pemuda-ntb-desak-pimpinan-bulog-mundur.html)
 * [Porwada Pwi Ntb Perkuat Solidaritas Wartawan](https://www.lombokepo.site/2026/06/porwada-pwi-ntb-perkuat-solidaritas-wartawan.html)
 * [Kapolda Ntb Perkuat Pelayanan Dan Integritas Di Lombok Utara](https://www.lombokepo.site/2026/06/kapolda-ntb-perkuat-pelayanan-dan-integritas-di-lombok-utara.html)
 * [Bbpom Mataram Edukasi Keamanan Pangan Umkm Ntb](https://www.lombokepo.site/2026/06/bbpom-mataram-edukasi-keamanan-pangan-umkm-ntb.html)
-* [Wagub Ntb Perbaikan Tata Kelola Apbd](https://www.lombokepo.site/2026/06/wagub-ntb-perbaikan-tata-kelola-apbd.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 28 June 2026_
