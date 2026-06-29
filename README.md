@@ -149,11 +149,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Ntb Luncurkan E Monev Kip](https://www.lombokepo.site/2026/06/ntb-luncurkan-e-monev-kip.html)
+* [Polda Ntb Ungkap 163 Kasus 3C Operasi Jaran Rinjani](https://www.lombokepo.site/2026/06/polda-ntb-ungkap-163-kasus-3c-operasi-jaran-rinjani.html)
 * [Ew Lmnd Ntb Ajak Mahasiswa Jaga Kondusivitas](https://www.lombokepo.site/2026/06/ew-lmnd-ntb-ajak-mahasiswa-jaga-kondusivitas.html)
 * [Koalisi Pemuda Ntb Desak Pimpinan Bulog Mundur](https://www.lombokepo.site/2026/06/koalisi-pemuda-ntb-desak-pimpinan-bulog-mundur.html)
 * [Porwada Pwi Ntb Perkuat Solidaritas Wartawan](https://www.lombokepo.site/2026/06/porwada-pwi-ntb-perkuat-solidaritas-wartawan.html)
-* [Kapolda Ntb Perkuat Pelayanan Dan Integritas Di Lombok Utara](https://www.lombokepo.site/2026/06/kapolda-ntb-perkuat-pelayanan-dan-integritas-di-lombok-utara.html)
-* [Bbpom Mataram Edukasi Keamanan Pangan Umkm Ntb](https://www.lombokepo.site/2026/06/bbpom-mataram-edukasi-keamanan-pangan-umkm-ntb.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 28 June 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 29 June 2026_
