@@ -152,6 +152,7 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
 * [Joy Ride Kopassus Amankan Mandalika](https://www.lombokepo.site/2026/06/joy-ride-kopassus-amankan-mandalika.html)
 * [Ntb Luncurkan E Monev Kip](https://www.lombokepo.site/2026/06/ntb-luncurkan-e-monev-kip.html)
@@ -159,4 +160,4 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 * [Ew Lmnd Ntb Ajak Mahasiswa Jaga Kondusivitas](https://www.lombokepo.site/2026/06/ew-lmnd-ntb-ajak-mahasiswa-jaga-kondusivitas.html)
 * [Koalisi Pemuda Ntb Desak Pimpinan Bulog Mundur](https://www.lombokepo.site/2026/06/koalisi-pemuda-ntb-desak-pimpinan-bulog-mundur.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 29 June 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 30 June 2026_
