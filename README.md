@@ -157,11 +157,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Bps Ekonomi Ntb Juni](https://www.lombokepo.site/2026/07/bps-ekonomi-ntb-juni.html)
 * [Polda Ntb Doa Lintas Agama Hari Bhayangkara 80](https://www.lombokepo.site/2026/07/polda-ntb-doa-lintas-agama-hari-bhayangkara-80.html)
 * [Hari Bhayangkara 80 Polda Ntb](https://www.lombokepo.site/2026/07/hari-bhayangkara-80-polda-ntb.html)
 * [Turnamen Orado Mataram Jaring Atlet Domino](https://www.lombokepo.site/2026/06/turnamen-orado-mataram-jaring-atlet-domino.html)
 * [Gubernur Ntb Dorong Kebijakan Perikanan Berbasis Data](https://www.lombokepo.site/2026/06/gubernur-ntb-dorong-kebijakan-perikanan-berbasis-data.html)
-* [Joy Ride Kopassus Amankan Mandalika](https://www.lombokepo.site/2026/06/joy-ride-kopassus-amankan-mandalika.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 01 July 2026_
