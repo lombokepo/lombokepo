@@ -164,11 +164,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Apri Ntb Kapolda Bahas Ipr](https://www.lombokepo.site/2026/07/apri-ntb-kapolda-bahas-ipr.html)
 * [Bank Ntb Syariah Universitas Bumigora Digitalisasi Keuangan](https://www.lombokepo.site/2026/07/bank-ntb-syariah-universitas-bumigora-digitalisasi-keuangan.html)
 * [Ew Lmnd Ntb Hut Bhayangkara 80 Polda Ntb](https://www.lombokepo.site/2026/07/ew-lmnd-ntb-hut-bhayangkara-80-polda-ntb.html)
 * [Badko Hmi Bali Nusra Hut Bhayangkara 80 Polda Ntb](https://www.lombokepo.site/2026/07/badko-hmi-bali-nusra-hut-bhayangkara-80-polda-ntb.html)
 * [Bunda Sinta Santri Lombok Timur](https://www.lombokepo.site/2026/07/bunda-sinta-santri-lombok-timur.html)
-* [Bps Ekonomi Ntb Juni](https://www.lombokepo.site/2026/07/bps-ekonomi-ntb-juni.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 03 July 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 04 July 2026_
