@@ -171,11 +171,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Wagub Ntb Notaris Ppat Investasi](https://www.lombokepo.site/2026/07/wagub-ntb-notaris-ppat-investasi.html)
 * [Gelitra Ntb Diluncurkan Gubernur Miq Iqbal Bangun Literasi Desa](https://www.lombokepo.site/2026/07/gelitra-ntb-diluncurkan-gubernur-miq-iqbal-bangun-literasi-desa.html)
 * [Bbpom Mataram Iai Ntb Edukasi Buang Obat Kedaluwarsa](https://www.lombokepo.site/2026/07/bbpom-mataram-iai-ntb-edukasi-buang-obat-kedaluwarsa.html)
 * [Pemprov Ntb Kolaborasi Ngo Spanyol Program Desa Berdaya](https://www.lombokepo.site/2026/07/pemprov-ntb-kolaborasi-ngo-spanyol-program-desa-berdaya.html)
 * [Apri Ntb Kapolda Bahas Ipr](https://www.lombokepo.site/2026/07/apri-ntb-kapolda-bahas-ipr.html)
-* [Bank Ntb Syariah Universitas Bumigora Digitalisasi Keuangan](https://www.lombokepo.site/2026/07/bank-ntb-syariah-universitas-bumigora-digitalisasi-keuangan.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 06 July 2026_
