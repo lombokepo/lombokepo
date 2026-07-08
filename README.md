@@ -176,11 +176,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Rimo Run 2026 Hut Bank Ntb Syariah](https://www.lombokepo.site/2026/07/rimo-run-2026-hut-bank-ntb-syariah.html)
+* [Pappri Ntb Perkuat Ekosistem Musik Ekonomi Kreatif](https://www.lombokepo.site/2026/07/pappri-ntb-perkuat-ekosistem-musik-ekonomi-kreatif.html)
+* [Survei Presisi Bupati Lombok Timur](https://www.lombokepo.site/2026/07/survei-presisi-bupati-lombok-timur.html)
 * [Ntb Luncurkan Pergub Posyandu 6 Spm Layanan Dasar](https://www.lombokepo.site/2026/07/ntb-luncurkan-pergub-posyandu-6-spm-layanan-dasar.html)
 * [Wagub Ntb Notaris Ppat Investasi](https://www.lombokepo.site/2026/07/wagub-ntb-notaris-ppat-investasi.html)
-* [Gelitra Ntb Diluncurkan Gubernur Miq Iqbal Bangun Literasi Desa](https://www.lombokepo.site/2026/07/gelitra-ntb-diluncurkan-gubernur-miq-iqbal-bangun-literasi-desa.html)
-* [Bbpom Mataram Iai Ntb Edukasi Buang Obat Kedaluwarsa](https://www.lombokepo.site/2026/07/bbpom-mataram-iai-ntb-edukasi-buang-obat-kedaluwarsa.html)
-* [Pemprov Ntb Kolaborasi Ngo Spanyol Program Desa Berdaya](https://www.lombokepo.site/2026/07/pemprov-ntb-kolaborasi-ngo-spanyol-program-desa-berdaya.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 07 July 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 08 July 2026_
