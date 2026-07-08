@@ -178,11 +178,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Gubernur Iqbal Resmikan Bale Kita Umkm Ntb](https://www.lombokepo.site/2026/07/gubernur-iqbal-resmikan-bale-kita-umkm-ntb.html)
 * [Rimo Run 2026 Hut Bank Ntb Syariah](https://www.lombokepo.site/2026/07/rimo-run-2026-hut-bank-ntb-syariah.html)
 * [Pappri Ntb Perkuat Ekosistem Musik Ekonomi Kreatif](https://www.lombokepo.site/2026/07/pappri-ntb-perkuat-ekosistem-musik-ekonomi-kreatif.html)
 * [Survei Presisi Bupati Lombok Timur](https://www.lombokepo.site/2026/07/survei-presisi-bupati-lombok-timur.html)
 * [Ntb Luncurkan Pergub Posyandu 6 Spm Layanan Dasar](https://www.lombokepo.site/2026/07/ntb-luncurkan-pergub-posyandu-6-spm-layanan-dasar.html)
-* [Wagub Ntb Notaris Ppat Investasi](https://www.lombokepo.site/2026/07/wagub-ntb-notaris-ppat-investasi.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 08 July 2026_
