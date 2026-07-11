@@ -186,11 +186,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Mandalika Street Food Festival 2026 Umkm Ntb](https://www.lombokepo.site/2026/07/mandalika-street-food-festival-2026-umkm-ntb.html)
 * [Prabowo Resmikan Bendungan Meninting Ntb](https://www.lombokepo.site/2026/07/prabowo-resmikan-bendungan-meninting-ntb.html)
 * [Pemprov Ntb Unram Desa Berdaya](https://www.lombokepo.site/2026/07/pemprov-ntb-unram-desa-berdaya.html)
 * [Favehotel Langko Street Food Tokyo](https://www.lombokepo.site/2026/07/favehotel-langko-street-food-tokyo.html)
 * [Gubernur Iqbal Resmikan Bale Kita Umkm Ntb](https://www.lombokepo.site/2026/07/gubernur-iqbal-resmikan-bale-kita-umkm-ntb.html)
-* [Rimo Run 2026 Hut Bank Ntb Syariah](https://www.lombokepo.site/2026/07/rimo-run-2026-hut-bank-ntb-syariah.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 11 July 2026_
