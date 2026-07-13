@@ -192,11 +192,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Pemprov Ntb Temuan Bpk Sudah Ditindaklanjuti](https://www.lombokepo.site/2026/07/pemprov-ntb-temuan-bpk-sudah-ditindaklanjuti.html)
 * [Wellness Tourism Strategi Ntb Pariwisata Berkualitas](https://www.lombokepo.site/2026/07/wellness-tourism-strategi-ntb-pariwisata-berkualitas.html)
 * [Ntb Tuan Rumah Raker Appsi 2026](https://www.lombokepo.site/2026/07/ntb-tuan-rumah-raker-appsi-2026.html)
 * [Mandalika Street Food Festival 2026 Umkm Ntb](https://www.lombokepo.site/2026/07/mandalika-street-food-festival-2026-umkm-ntb.html)
 * [Prabowo Resmikan Bendungan Meninting Ntb](https://www.lombokepo.site/2026/07/prabowo-resmikan-bendungan-meninting-ntb.html)
-* [Pemprov Ntb Unram Desa Berdaya](https://www.lombokepo.site/2026/07/pemprov-ntb-unram-desa-berdaya.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 13 July 2026_
