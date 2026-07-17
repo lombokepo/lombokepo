@@ -202,6 +202,7 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
 * [Jalan Pejanggik Ditutup Porprov Ntb](https://www.lombokepo.site/2026/07/jalan-pejanggik-ditutup-porprov-ntb.html)
 * [Kapolda Ntb Nobar Piala Dunia Bersama Wartawan](https://www.lombokepo.site/2026/07/kapolda-ntb-nobar-piala-dunia-bersama-wartawan.html)
@@ -209,4 +210,4 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 * [Gubernur Ntb Dukung Ukw Smsi Ntb 2026](https://www.lombokepo.site/2026/07/gubernur-ntb-dukung-ukw-smsi-ntb-2026.html)
 * [Pemprov Ntb Ajukan Kua Ppas Apbd 2027](https://www.lombokepo.site/2026/07/pemprov-ntb-ajukan-kua-ppas-apbd-2027.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 16 July 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 17 July 2026_
