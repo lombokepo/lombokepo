@@ -215,11 +215,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Gubernur Iqbal Ingatkan Puprpkp Ntb Good Governance](https://www.lombokepo.site/2026/07/gubernur-iqbal-ingatkan-puprpkp-ntb-good-governance.html)
 * [Nobar Pildun Refleksi Jelang Muktamar Nu](https://www.lombokepo.site/2026/07/nobar-pildun-refleksi-jelang-muktamar-nu.html)
 * [Lmnd Ntb Desak Kpk Usut Korupsi Se Ntb](https://www.lombokepo.site/2026/07/lmnd-ntb-desak-kpk-usut-korupsi-se-ntb.html)
 * [Tvone Minta Maaf Ponpes Al Ishlahuddiny](https://www.lombokepo.site/2026/07/tvone-minta-maaf-ponpes-al-ishlahuddiny.html)
 * [Lalu Ratmaji Relawan Lalu Lintas Rembiga](https://www.lombokepo.site/2026/07/lalu-ratmaji-relawan-lalu-lintas-rembiga.html)
-* [Gubernur Ntb Undang Warga Nobar Final Piala Dunia 2026](https://www.lombokepo.site/2026/07/gubernur-ntb-undang-warga-nobar-final-piala-dunia-2026.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 21 July 2026_
