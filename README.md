@@ -220,11 +220,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Tertib Frekuensi Dukung Digital Ntb](https://www.lombokepo.site/2026/07/tertib-frekuensi-dukung-digital-ntb.html)
 * [Gubernur Ntb Apbd Harus Berdampak Nyata](https://www.lombokepo.site/2026/07/gubernur-ntb-apbd-harus-berdampak-nyata.html)
 * [Gubernur Iqbal Ingatkan Puprpkp Ntb Good Governance](https://www.lombokepo.site/2026/07/gubernur-iqbal-ingatkan-puprpkp-ntb-good-governance.html)
 * [Nobar Pildun Refleksi Jelang Muktamar Nu](https://www.lombokepo.site/2026/07/nobar-pildun-refleksi-jelang-muktamar-nu.html)
 * [Lmnd Ntb Desak Kpk Usut Korupsi Se Ntb](https://www.lombokepo.site/2026/07/lmnd-ntb-desak-kpk-usut-korupsi-se-ntb.html)
-* [Tvone Minta Maaf Ponpes Al Ishlahuddiny](https://www.lombokepo.site/2026/07/tvone-minta-maaf-ponpes-al-ishlahuddiny.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 22 July 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 23 July 2026_
