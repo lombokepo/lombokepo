@@ -226,6 +226,7 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
 * [Ntb Percepat Revisi Rtrw Mitigasi Bencana Investasi](https://www.lombokepo.site/2026/07/ntb-percepat-revisi-rtrw-mitigasi-bencana-investasi.html)
 * [Polda Ntb Ungkap 61 Kasus Narkoba](https://www.lombokepo.site/2026/07/polda-ntb-ungkap-61-kasus-narkoba.html)
@@ -233,4 +234,4 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 * [Gubernur Ntb Apbd Harus Berdampak Nyata](https://www.lombokepo.site/2026/07/gubernur-ntb-apbd-harus-berdampak-nyata.html)
 * [Gubernur Iqbal Ingatkan Puprpkp Ntb Good Governance](https://www.lombokepo.site/2026/07/gubernur-iqbal-ingatkan-puprpkp-ntb-good-governance.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 24 July 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 25 July 2026_
