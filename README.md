@@ -229,11 +229,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Sirtupillali Ketua Amsi Ntb 2026 2030](https://www.lombokepo.site/2026/07/sirtupillali-ketua-amsi-ntb-2026-2030.html)
+* [Ijti Prabowo Londo Ireng Jurnalis](https://www.lombokepo.site/2026/07/ijti-prabowo-londo-ireng-jurnalis.html)
+* [Panorama Senggigi Dan Hilangnya Figur Laz](https://www.lombokepo.site/2026/07/panorama-senggigi-dan-hilangnya-figur-laz.html)
 * [Ntb Percepat Revisi Rtrw Mitigasi Bencana Investasi](https://www.lombokepo.site/2026/07/ntb-percepat-revisi-rtrw-mitigasi-bencana-investasi.html)
 * [Polda Ntb Ungkap 61 Kasus Narkoba](https://www.lombokepo.site/2026/07/polda-ntb-ungkap-61-kasus-narkoba.html)
-* [Tertib Frekuensi Dukung Digital Ntb](https://www.lombokepo.site/2026/07/tertib-frekuensi-dukung-digital-ntb.html)
-* [Gubernur Ntb Apbd Harus Berdampak Nyata](https://www.lombokepo.site/2026/07/gubernur-ntb-apbd-harus-berdampak-nyata.html)
-* [Gubernur Iqbal Ingatkan Puprpkp Ntb Good Governance](https://www.lombokepo.site/2026/07/gubernur-iqbal-ingatkan-puprpkp-ntb-good-governance.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 25 July 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 26 July 2026_
