@@ -236,11 +236,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Program Trenggiling Pertamina Ntb](https://www.lombokepo.site/2026/07/program-trenggiling-pertamina-ntb.html)
 * [Arti Londo Ireng](https://www.lombokepo.site/2026/07/arti-londo-ireng.html)
 * [Bank Ntb Syariah Kacamata Gratis Pelajar](https://www.lombokepo.site/2026/07/bank-ntb-syariah-kacamata-gratis-pelajar.html)
 * [Sirtupillali Ketua Amsi Ntb 2026 2030](https://www.lombokepo.site/2026/07/sirtupillali-ketua-amsi-ntb-2026-2030.html)
 * [Ijti Prabowo Londo Ireng Jurnalis](https://www.lombokepo.site/2026/07/ijti-prabowo-londo-ireng-jurnalis.html)
-* [Panorama Senggigi Dan Hilangnya Figur Laz](https://www.lombokepo.site/2026/07/panorama-senggigi-dan-hilangnya-figur-laz.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 28 July 2026_
