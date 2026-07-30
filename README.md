@@ -242,11 +242,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Raperda Pinjol Ilegal Judi Online Ntb](https://www.lombokepo.site/2026/07/raperda-pinjol-ilegal-judi-online-ntb.html)
 * [Bnnp Ntb Gagalkan 1 Kg Sabu Malaysia](https://www.lombokepo.site/2026/07/bnnp-ntb-gagalkan-1-kg-sabu-malaysia.html)
 * [Miq Iqbal Revitalisasi Pasar Kuta Mandalika](https://www.lombokepo.site/2026/07/miq-iqbal-revitalisasi-pasar-kuta-mandalika.html)
 * [Program Trenggiling Pertamina Ntb](https://www.lombokepo.site/2026/07/program-trenggiling-pertamina-ntb.html)
 * [Arti Londo Ireng](https://www.lombokepo.site/2026/07/arti-londo-ireng.html)
-* [Bank Ntb Syariah Kacamata Gratis Pelajar](https://www.lombokepo.site/2026/07/bank-ntb-syariah-kacamata-gratis-pelajar.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 30 July 2026_
