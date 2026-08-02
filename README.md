@@ -251,11 +251,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Wagub Ntb Promosikan Tenun Di Indonesia Fashion Week](https://www.lombokepo.site/2026/08/wagub-ntb-promosikan-tenun-di-indonesia-fashion-week.html)
 * [Bank Ntb Syariah Dukung Program Peka](https://www.lombokepo.site/2026/07/bank-ntb-syariah-dukung-program-peka.html)
 * [Bank Ntb Syariah Tanam Mangrove Paremas Hut 62](https://www.lombokepo.site/2026/08/bank-ntb-syariah-tanam-mangrove-paremas-hut-62.html)
 * [Kampung Nelayan Merah Putih Teluk Ekas Ntb](https://www.lombokepo.site/2026/08/kampung-nelayan-merah-putih-teluk-ekas-ntb.html)
 * [Raperda Pinjol Ilegal Judi Online Ntb](https://www.lombokepo.site/2026/07/raperda-pinjol-ilegal-judi-online-ntb.html)
-* [Bnnp Ntb Gagalkan 1 Kg Sabu Malaysia](https://www.lombokepo.site/2026/07/bnnp-ntb-gagalkan-1-kg-sabu-malaysia.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 02 August 2026_
