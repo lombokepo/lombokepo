@@ -258,11 +258,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Tim Bulutangkis Polda Ntb Raih Juara](https://www.lombokepo.site/2026/08/tim-bulutangkis-polda-ntb-raih-juara.html)
 * [Gubernur Miq Iqbal Cagar Budaya Penggerak Ekonomi Ntb](https://www.lombokepo.site/2026/08/gubernur-miq-iqbal-cagar-budaya-penggerak-ekonomi-ntb.html)
 * [Dpd Ri Kawal Program Prioritas Ntb](https://www.lombokepo.site/2026/08/dpd-ri-kawal-program-prioritas-ntb.html)
 * [Sari Yuliati Pip Ponpes Nu Abhariyah](https://www.lombokepo.site/2026/08/sari-yuliati-pip-ponpes-nu-abhariyah.html)
 * [Pelatihan Calon Pmi Ntb Pemagangan Jepang 2026](https://www.lombokepo.site/2026/08/pelatihan-calon-pmi-ntb-pemagangan-jepang-2026.html)
-* [Bank Ntb Syariah Bantuan Ayam Petelur Lombok Timur](https://www.lombokepo.site/2026/08/bank-ntb-syariah-bantuan-ayam-petelur-lombok-timur.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 04 August 2026_
