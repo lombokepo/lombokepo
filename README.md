@@ -261,11 +261,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Semarak Hut Ri 81 Ntb](https://www.lombokepo.site/2026/08/semarak-hut-ri-81-ntb.html)
 * [Duta Pencegahan Iret Gentara Nusa Ntb](https://www.lombokepo.site/2026/08/duta-pencegahan-iret-gentara-nusa-ntb.html)
 * [Miq Iqbal Akselerasi Smk Berbasis Industri](https://www.lombokepo.site/2026/08/miq-iqbal-akselerasi-smk-berbasis-industri.html)
 * [Tim Bulutangkis Polda Ntb Raih Juara](https://www.lombokepo.site/2026/08/tim-bulutangkis-polda-ntb-raih-juara.html)
 * [Gubernur Miq Iqbal Cagar Budaya Penggerak Ekonomi Ntb](https://www.lombokepo.site/2026/08/gubernur-miq-iqbal-cagar-budaya-penggerak-ekonomi-ntb.html)
-* [Dpd Ri Kawal Program Prioritas Ntb](https://www.lombokepo.site/2026/08/dpd-ri-kawal-program-prioritas-ntb.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 05 August 2026_
