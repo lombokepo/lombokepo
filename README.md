@@ -271,11 +271,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Caca Handika Hmi Bali Nusra Semangat Persatuan Hari Kemerdekaan](https://www.lombokepo.site/2026/08/caca-handika-hmi-bali-nusra-semangat-persatuan-hari-kemerdekaan.html)
 * [Ntb Perkuat Umkm Akses Kur Perluasan Pasar](https://www.lombokepo.site/2026/08/ntb-perkuat-umkm-akses-kur-perluasan-pasar.html)
 * [Investasi Ntb Semester I 2026 Capai 33 73 Triliun](https://www.lombokepo.site/2026/08/investasi-ntb-semester-i-2026-capai-33-73-triliun.html)
 * [Pemprov Ntb Pedoman Mediasi Sosial Pernikahan Beda Agama](https://www.lombokepo.site/2026/08/pemprov-ntb-pedoman-mediasi-sosial-pernikahan-beda-agama.html)
 * [Semarak Hut Ri 81 Ntb](https://www.lombokepo.site/2026/08/semarak-hut-ri-81-ntb.html)
-* [Duta Pencegahan Iret Gentara Nusa Ntb](https://www.lombokepo.site/2026/08/duta-pencegahan-iret-gentara-nusa-ntb.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 08 August 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 09 August 2026_
