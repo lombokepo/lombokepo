@@ -275,11 +275,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Ki Ntb Ajak Warga Rayakan Hut Ri Ke 81](https://www.lombokepo.site/2026/08/ki-ntb-ajak-warga-rayakan-hut-ri-ke-81.html)
+* [Ketua Gp Ansor Ntb Ajak Pemuda Perkokoh Persatuan Hut Ri Ke 81](https://www.lombokepo.site/2026/08/ketua-gp-ansor-ntb-ajak-pemuda-perkokoh-persatuan-hut-ri-ke-81.html)
+* [Antisipasi Defisit Pemprov Ntb Susun Apbd P Lebih Realistis](https://www.lombokepo.site/2026/08/antisipasi-defisit-pemprov-ntb-susun-apbd-p-lebih-realistis.html)
 * [Pemprov Ntb Ajak Kendaraan Pelat Luar Balik Nama](https://www.lombokepo.site/2026/08/pemprov-ntb-ajak-kendaraan-pelat-luar-balik-nama.html)
 * [Giri Purwanto Ajak Jaga Persatuan Hut Ri 81](https://www.lombokepo.site/2026/08/giri-purwanto-ajak-jaga-persatuan-hut-ri-81.html)
-* [Caca Handika Hmi Bali Nusra Semangat Persatuan Hari Kemerdekaan](https://www.lombokepo.site/2026/08/caca-handika-hmi-bali-nusra-semangat-persatuan-hari-kemerdekaan.html)
-* [Ntb Perkuat Umkm Akses Kur Perluasan Pasar](https://www.lombokepo.site/2026/08/ntb-perkuat-umkm-akses-kur-perluasan-pasar.html)
-* [Investasi Ntb Semester I 2026 Capai 33 73 Triliun](https://www.lombokepo.site/2026/08/investasi-ntb-semester-i-2026-capai-33-73-triliun.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 10 August 2026_
