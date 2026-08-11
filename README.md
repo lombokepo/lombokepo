@@ -279,11 +279,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Dwp Lotim Gandeng Densus 88 Cegah Iret](https://www.lombokepo.site/2026/08/dwp-lotim-gandeng-densus-88-cegah-iret.html)
 * [Operasi Antik Rinjani 129 Kasus 3 Polisi](https://www.lombokepo.site/2026/08/operasi-antik-rinjani-129-kasus-3-polisi.html)
 * [Pwnu Ntb Rayakan Hut Ri Dengan Kegiatan](https://www.lombokepo.site/2026/08/pwnu-ntb-rayakan-hut-ri-dengan-kegiatan.html)
 * [Wagub Ntb Apresiasi Sensus Ekonomi Capai 94 Persen](https://www.lombokepo.site/2026/08/wagub-ntb-apresiasi-sensus-ekonomi-capai-94-persen.html)
 * [Gow Lombok Timur Sosialisasi Pencegahan Iret Densus 88](https://www.lombokepo.site/2026/08/gow-lombok-timur-sosialisasi-pencegahan-iret-densus-88.html)
-* [Ki Ntb Ajak Warga Rayakan Hut Ri Ke 81](https://www.lombokepo.site/2026/08/ki-ntb-ajak-warga-rayakan-hut-ri-ke-81.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 11 August 2026_
