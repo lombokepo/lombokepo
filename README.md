@@ -281,11 +281,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Ntb Partha Bangun Model Baru Pencegahan Tppo](https://www.lombokepo.site/2026/08/ntb-partha-bangun-model-baru-pencegahan-tppo.html)
+* [Kick Off Motogp Mandalika 2026 Ntb](https://www.lombokepo.site/2026/08/kick-off-motogp-mandalika-2026-ntb.html)
 * [Formal Perkuat Sinergi Pers Pemerintah](https://www.lombokepo.site/2026/08/formal-perkuat-sinergi-pers-pemerintah.html)
 * [Hilirisasi Gili Tramena Transformasi Ekonomi Ntb](https://www.lombokepo.site/2026/08/hilirisasi-gili-tramena-transformasi-ekonomi-ntb.html)
 * [Dwp Lotim Gandeng Densus 88 Cegah Iret](https://www.lombokepo.site/2026/08/dwp-lotim-gandeng-densus-88-cegah-iret.html)
-* [Operasi Antik Rinjani 129 Kasus 3 Polisi](https://www.lombokepo.site/2026/08/operasi-antik-rinjani-129-kasus-3-polisi.html)
-* [Pwnu Ntb Rayakan Hut Ri Dengan Kegiatan](https://www.lombokepo.site/2026/08/pwnu-ntb-rayakan-hut-ri-dengan-kegiatan.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 12 August 2026_
