@@ -286,11 +286,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Ketua Tanfidziah Pwnu Ntb Hut Ri 81](https://www.lombokepo.site/2026/08/ketua-tanfidziah-pwnu-ntb-hut-ri-81.html)
+* [Ketua Pw Gp Ansor Ntb Hut Ri 81](https://www.lombokepo.site/2026/08/ketua-pw-gp-ansor-ntb-hut-ri-81.html)
+* [Miq Iqbal Musorprov Koni Ntb Damai Pon 2028](https://www.lombokepo.site/2026/08/miq-iqbal-musorprov-koni-ntb-damai-pon-2028.html)
 * [Lombok Royal Property Hut Ri 81](https://www.lombokepo.site/2026/08/lombok-royal-property-hut-ri-81.html)
 * [Rektor Uin Mataram Hut Ri 81](https://www.lombokepo.site/2026/08/rektor-uin-mataram-hut-ri-81.html)
-* [Radikalisme Anak Ruang Digital Ntb](https://www.lombokepo.site/2026/08/radikalisme-anak-ruang-digital-ntb.html)
-* [Polda Ntb Bongkar Jaringan Curanmor Sekotong](https://www.lombokepo.site/2026/08/polda-ntb-bongkar-jaringan-curanmor-sekotong.html)
-* [Ntb Partha Bangun Model Baru Pencegahan Tppo](https://www.lombokepo.site/2026/08/ntb-partha-bangun-model-baru-pencegahan-tppo.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 13 August 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 14 August 2026_
