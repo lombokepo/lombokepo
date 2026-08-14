@@ -287,11 +287,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Cara Membuat Email Domain Google Workspace Zoho Mail](https://www.lombokepo.site/2026/08/cara-membuat-email-domain-google-workspace-zoho-mail.html)
+* [Zodiak Sasambo 14 21 Agustus 2026](https://www.lombokepo.site/2026/08/zodiak-sasambo-14-21-agustus-2026.html)
 * [Ketua Tanfidziah Pwnu Ntb Hut Ri 81](https://www.lombokepo.site/2026/08/ketua-tanfidziah-pwnu-ntb-hut-ri-81.html)
 * [Ketua Pw Gp Ansor Ntb Hut Ri 81](https://www.lombokepo.site/2026/08/ketua-pw-gp-ansor-ntb-hut-ri-81.html)
 * [Miq Iqbal Musorprov Koni Ntb Damai Pon 2028](https://www.lombokepo.site/2026/08/miq-iqbal-musorprov-koni-ntb-damai-pon-2028.html)
-* [Lombok Royal Property Hut Ri 81](https://www.lombokepo.site/2026/08/lombok-royal-property-hut-ri-81.html)
-* [Rektor Uin Mataram Hut Ri 81](https://www.lombokepo.site/2026/08/rektor-uin-mataram-hut-ri-81.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 14 August 2026_
