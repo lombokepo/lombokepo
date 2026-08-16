@@ -293,11 +293,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Urc Puma Polda Ntb Patroli Malam Mataram](https://www.lombokepo.site/2026/08/urc-puma-polda-ntb-patroli-malam-mataram.html)
+* [Gpm Ntb Sasar Inflasi Dari Rumah Tangga](https://www.lombokepo.site/2026/08/gpm-ntb-sasar-inflasi-dari-rumah-tangga.html)
 * [Tim Sar Brimob Bantu Warga Terdampak Gempa Bima](https://www.lombokepo.site/2026/08/tim-sar-brimob-bantu-warga-terdampak-gempa-bima.html)
 * [Grand Madani Hotel Promo Kemerdekaan Rp330 Ribu](https://www.lombokepo.site/2026/08/grand-madani-hotel-promo-kemerdekaan-rp330-ribu.html)
 * [Kua Ppas 2027 Ntb Disepakati](https://www.lombokepo.site/2026/08/kua-ppas-2027-ntb-disepakati.html)
-* [Cara Membuat Email Domain Google Workspace Zoho Mail](https://www.lombokepo.site/2026/08/cara-membuat-email-domain-google-workspace-zoho-mail.html)
-* [Zodiak Sasambo 14 21 Agustus 2026](https://www.lombokepo.site/2026/08/zodiak-sasambo-14-21-agustus-2026.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 16 August 2026_
