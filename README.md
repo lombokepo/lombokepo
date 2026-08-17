@@ -295,11 +295,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Inspektorat Ntb Dirgahayu Ri 81](https://www.lombokepo.site/2026/08/inspektorat-ntb-dirgahayu-ri-81.html)
+* [Bank Ntb Syariah Dirgahayu Ri 81](https://www.lombokepo.site/2026/08/bank-ntb-syariah-dirgahayu-ri-81.html)
+* [Miq Iqbal Kukuhkan Paskibraka Ntb 2026](https://www.lombokepo.site/2026/08/miq-iqbal-kukuhkan-paskibraka-ntb-2026.html)
 * [Urc Puma Polda Ntb Patroli Malam Mataram](https://www.lombokepo.site/2026/08/urc-puma-polda-ntb-patroli-malam-mataram.html)
 * [Gpm Ntb Sasar Inflasi Dari Rumah Tangga](https://www.lombokepo.site/2026/08/gpm-ntb-sasar-inflasi-dari-rumah-tangga.html)
-* [Tim Sar Brimob Bantu Warga Terdampak Gempa Bima](https://www.lombokepo.site/2026/08/tim-sar-brimob-bantu-warga-terdampak-gempa-bima.html)
-* [Grand Madani Hotel Promo Kemerdekaan Rp330 Ribu](https://www.lombokepo.site/2026/08/grand-madani-hotel-promo-kemerdekaan-rp330-ribu.html)
-* [Kua Ppas 2027 Ntb Disepakati](https://www.lombokepo.site/2026/08/kua-ppas-2027-ntb-disepakati.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 16 August 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 17 August 2026_
