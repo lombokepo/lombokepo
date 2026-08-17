@@ -296,11 +296,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Pemprov Ntb Kirim Logistik Tim Tanggap Darurat Ntt](https://www.lombokepo.site/2026/08/pemprov-ntb-kirim-logistik-tim-tanggap-darurat-ntt.html)
 * [Inspektorat Ntb Dirgahayu Ri 81](https://www.lombokepo.site/2026/08/inspektorat-ntb-dirgahayu-ri-81.html)
 * [Bank Ntb Syariah Dirgahayu Ri 81](https://www.lombokepo.site/2026/08/bank-ntb-syariah-dirgahayu-ri-81.html)
 * [Miq Iqbal Kukuhkan Paskibraka Ntb 2026](https://www.lombokepo.site/2026/08/miq-iqbal-kukuhkan-paskibraka-ntb-2026.html)
 * [Urc Puma Polda Ntb Patroli Malam Mataram](https://www.lombokepo.site/2026/08/urc-puma-polda-ntb-patroli-malam-mataram.html)
-* [Gpm Ntb Sasar Inflasi Dari Rumah Tangga](https://www.lombokepo.site/2026/08/gpm-ntb-sasar-inflasi-dari-rumah-tangga.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 17 August 2026_
