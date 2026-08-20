@@ -304,11 +304,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Eks Napiter Eks Ji Ikuti Upacara Hut Ri Ntb](https://www.lombokepo.site/2026/08/eks-napiter-eks-ji-ikuti-upacara-hut-ri-ntb.html)
 * [Industri Jasa Keuangan Ntb Bantuan Korban Bencana Ntt](https://www.lombokepo.site/2026/08/industri-jasa-keuangan-ntb-bantuan-korban-bencana-ntt.html)
 * [Gubernur Iqbal Pesan Kedisiplinan Paskibra Ntb](https://www.lombokepo.site/2026/08/gubernur-iqbal-pesan-kedisiplinan-paskibra-ntb.html)
 * [Dashboard Eksekutif Ntb Diperkuat Berbasis Data](https://www.lombokepo.site/2026/08/dashboard-eksekutif-ntb-diperkuat-berbasis-data.html)
 * [Hut Ri Ke 81 Iqbal Kenakan Pakaian](https://www.lombokepo.site/2026/08/hut-ri-ke-81-iqbal-kenakan-pakaian.html)
-* [3170 Warga Binaan Ntb Terima Remisi](https://www.lombokepo.site/2026/08/3170-warga-binaan-ntb-terima-remisi.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 19 August 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 20 August 2026_
