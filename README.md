@@ -315,11 +315,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Inspektorat Ntb Peringati Maulid Nabi](https://www.lombokepo.site/2026/08/inspektorat-ntb-peringati-maulid-nabi.html)
 * [Gubernur Iqbal Turun Tangani Kebakaran Sade](https://www.lombokepo.site/2026/08/gubernur-iqbal-turun-tangani-kebakaran-sade.html)
 * [Bunda Sinta Perkuat Kolaborasi Lintas Generasi Tp Pkk Ntb](https://www.lombokepo.site/2026/08/bunda-sinta-perkuat-kolaborasi-lintas-generasi-tp-pkk-ntb.html)
 * [Miq Iqbal Tunda Pulang Solidaritas Manggarai Timur](https://www.lombokepo.site/2026/08/miq-iqbal-tunda-pulang-solidaritas-manggarai-timur.html)
 * [Uin Mataram Bahas Reintegrasi Eks Napiter Indonesia Malaysia](https://www.lombokepo.site/2026/08/uin-mataram-bahas-reintegrasi-eks-napiter-indonesia-malaysia.html)
-* [Ijti Ntb Workshop Sinematografi Jurnalistik Bakti Sosial Sembalun](https://www.lombokepo.site/2026/08/ijti-ntb-workshop-sinematografi-jurnalistik-bakti-sosial-sembalun.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 23 August 2026_
