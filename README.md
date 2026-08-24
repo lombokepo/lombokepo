@@ -316,11 +316,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Bank Ntb Syariah Bantu Korban Kebakaran Sade](https://www.lombokepo.site/2026/08/bank-ntb-syariah-bantu-korban-kebakaran-sade.html)
+* [Urc Puma Polda Ntb Patroli Malam Minggu 3C Balap Liar](https://www.lombokepo.site/2026/08/urc-puma-polda-ntb-patroli-malam-minggu-3c-balap-liar.html)
 * [Inspektorat Ntb Peringati Maulid Nabi](https://www.lombokepo.site/2026/08/inspektorat-ntb-peringati-maulid-nabi.html)
 * [Gubernur Iqbal Turun Tangani Kebakaran Sade](https://www.lombokepo.site/2026/08/gubernur-iqbal-turun-tangani-kebakaran-sade.html)
 * [Bunda Sinta Perkuat Kolaborasi Lintas Generasi Tp Pkk Ntb](https://www.lombokepo.site/2026/08/bunda-sinta-perkuat-kolaborasi-lintas-generasi-tp-pkk-ntb.html)
-* [Miq Iqbal Tunda Pulang Solidaritas Manggarai Timur](https://www.lombokepo.site/2026/08/miq-iqbal-tunda-pulang-solidaritas-manggarai-timur.html)
-* [Uin Mataram Bahas Reintegrasi Eks Napiter Indonesia Malaysia](https://www.lombokepo.site/2026/08/uin-mataram-bahas-reintegrasi-eks-napiter-indonesia-malaysia.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 23 August 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 24 August 2026_
