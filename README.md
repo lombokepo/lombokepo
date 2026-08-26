@@ -323,11 +323,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Brimob Polda Ntb Salurkan Air Bersih Ende](https://www.lombokepo.site/2026/08/brimob-polda-ntb-salurkan-air-bersih-ende.html)
+* [Putri Mahkota Swedia Victoria Kunjungi Ntb](https://www.lombokepo.site/2026/08/putri-mahkota-swedia-victoria-kunjungi-ntb.html)
 * [Teladani Rasulullah Wujudkan Ntb Makmur Mendunia](https://www.lombokepo.site/2026/08/teladani-rasulullah-wujudkan-ntb-makmur-mendunia.html)
 * [Pemprov Ntb Perkuat Manajemen Talenta Asn](https://www.lombokepo.site/2026/08/pemprov-ntb-perkuat-manajemen-talenta-asn.html)
 * [Bank Ntb Syariah Bantu Korban Kebakaran Sade](https://www.lombokepo.site/2026/08/bank-ntb-syariah-bantu-korban-kebakaran-sade.html)
-* [Urc Puma Polda Ntb Patroli Malam Minggu 3C Balap Liar](https://www.lombokepo.site/2026/08/urc-puma-polda-ntb-patroli-malam-minggu-3c-balap-liar.html)
-* [Inspektorat Ntb Peringati Maulid Nabi](https://www.lombokepo.site/2026/08/inspektorat-ntb-peringati-maulid-nabi.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 26 August 2026_
