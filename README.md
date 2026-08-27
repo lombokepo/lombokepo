@@ -324,11 +324,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Jamsostek Award 2026 Ntb Perluas Perlindungan Pekerja](https://www.lombokepo.site/2026/08/jamsostek-award-2026-ntb-perluas-perlindungan-pekerja.html)
 * [Brimob Polda Ntb Salurkan Air Bersih Ende](https://www.lombokepo.site/2026/08/brimob-polda-ntb-salurkan-air-bersih-ende.html)
 * [Putri Mahkota Swedia Victoria Kunjungi Ntb](https://www.lombokepo.site/2026/08/putri-mahkota-swedia-victoria-kunjungi-ntb.html)
 * [Teladani Rasulullah Wujudkan Ntb Makmur Mendunia](https://www.lombokepo.site/2026/08/teladani-rasulullah-wujudkan-ntb-makmur-mendunia.html)
 * [Pemprov Ntb Perkuat Manajemen Talenta Asn](https://www.lombokepo.site/2026/08/pemprov-ntb-perkuat-manajemen-talenta-asn.html)
-* [Bank Ntb Syariah Bantu Korban Kebakaran Sade](https://www.lombokepo.site/2026/08/bank-ntb-syariah-bantu-korban-kebakaran-sade.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 26 August 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 27 August 2026_
