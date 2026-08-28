@@ -326,11 +326,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Bpdas Dodokan Moyosari Maulid Nabi](https://www.lombokepo.site/2026/08/bpdas-dodokan-moyosari-maulid-nabi.html)
+* [Simbar Gelar Aksi Bersih Pantai Cemare](https://www.lombokepo.site/2026/08/simbar-gelar-aksi-bersih-pantai-cemare.html)
 * [Putri Mahkota Swedia Ke Lombok Ntb Bawa Cerita Lokal Ke Dunia](https://www.lombokepo.site/2026/08/putri-mahkota-swedia-ke-lombok-ntb-bawa-cerita-lokal-ke-dunia.html)
 * [Pemprov Ntb Gandeng Umm Kembangkan](https://www.lombokepo.site/2026/08/pemprov-ntb-gandeng-umm-kembangkan.html)
 * [Kapolda Ntb Perkuat Sinergi Kamtibmas](https://www.lombokepo.site/2026/08/kapolda-ntb-perkuat-sinergi-kamtibmas.html)
-* [Jamsostek Award 2026 Ntb Perluas Perlindungan Pekerja](https://www.lombokepo.site/2026/08/jamsostek-award-2026-ntb-perluas-perlindungan-pekerja.html)
-* [Brimob Polda Ntb Salurkan Air Bersih Ende](https://www.lombokepo.site/2026/08/brimob-polda-ntb-salurkan-air-bersih-ende.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 27 August 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 28 August 2026_
