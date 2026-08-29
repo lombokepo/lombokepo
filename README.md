@@ -328,6 +328,7 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
 * [Polda Ntb Salurkan 550 Porsi Makanan Warga Ende](https://www.lombokepo.site/2026/08/polda-ntb-salurkan-550-porsi-makanan-warga-ende.html)
 * [Diduga Sekap Buruh Oknum Pt Bgr Dilaporkan](https://www.lombokepo.site/2026/08/diduga-sekap-buruh-oknum-pt-bgr-dilaporkan.html)
@@ -335,4 +336,4 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 * [Bpdas Dodokan Moyosari Maulid Nabi](https://www.lombokepo.site/2026/08/bpdas-dodokan-moyosari-maulid-nabi.html)
 * [Simbar Gelar Aksi Bersih Pantai Cemare](https://www.lombokepo.site/2026/08/simbar-gelar-aksi-bersih-pantai-cemare.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 28 August 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 29 August 2026_
