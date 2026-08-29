@@ -329,11 +329,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Kapolda Ntb Akhlak Rasulullah Setiap Pengabdian](https://www.lombokepo.site/2026/08/kapolda-ntb-akhlak-rasulullah-setiap-pengabdian.html)
 * [Polda Ntb Salurkan 550 Porsi Makanan Warga Ende](https://www.lombokepo.site/2026/08/polda-ntb-salurkan-550-porsi-makanan-warga-ende.html)
 * [Diduga Sekap Buruh Oknum Pt Bgr Dilaporkan](https://www.lombokepo.site/2026/08/diduga-sekap-buruh-oknum-pt-bgr-dilaporkan.html)
 * [Menabung Sejak Dini Benteng Generasi Ntb Era Digital](https://www.lombokepo.site/2026/08/menabung-sejak-dini-benteng-generasi-ntb-era-digital.html)
 * [Bpdas Dodokan Moyosari Maulid Nabi](https://www.lombokepo.site/2026/08/bpdas-dodokan-moyosari-maulid-nabi.html)
-* [Simbar Gelar Aksi Bersih Pantai Cemare](https://www.lombokepo.site/2026/08/simbar-gelar-aksi-bersih-pantai-cemare.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 29 August 2026_
