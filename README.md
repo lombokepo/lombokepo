@@ -330,11 +330,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Bank Ntb Syariah Hut Mataram](https://www.lombokepo.site/2026/08/bank-ntb-syariah-hut-mataram.html)
+* [Gubernur Ntb Pramuka Pelopor Swasembada Pangan](https://www.lombokepo.site/2026/08/gubernur-ntb-pramuka-pelopor-swasembada-pangan.html)
+* [Bank Ntb Syariah Hut Lombok Timur](https://www.lombokepo.site/2026/08/bank-ntb-syariah-hut-lombok-timur.html)
 * [Kapolda Ntb Akhlak Rasulullah Setiap Pengabdian](https://www.lombokepo.site/2026/08/kapolda-ntb-akhlak-rasulullah-setiap-pengabdian.html)
 * [Polda Ntb Salurkan 550 Porsi Makanan Warga Ende](https://www.lombokepo.site/2026/08/polda-ntb-salurkan-550-porsi-makanan-warga-ende.html)
-* [Diduga Sekap Buruh Oknum Pt Bgr Dilaporkan](https://www.lombokepo.site/2026/08/diduga-sekap-buruh-oknum-pt-bgr-dilaporkan.html)
-* [Menabung Sejak Dini Benteng Generasi Ntb Era Digital](https://www.lombokepo.site/2026/08/menabung-sejak-dini-benteng-generasi-ntb-era-digital.html)
-* [Bpdas Dodokan Moyosari Maulid Nabi](https://www.lombokepo.site/2026/08/bpdas-dodokan-moyosari-maulid-nabi.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 29 August 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 30 August 2026_
