@@ -331,11 +331,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Simbar Aksi Bersih Pantai Cemare Lombok Barat](https://www.lombokepo.site/2026/08/simbar-aksi-bersih-pantai-cemare-lombok-barat.html)
 * [Bank Ntb Syariah Hut Mataram](https://www.lombokepo.site/2026/08/bank-ntb-syariah-hut-mataram.html)
 * [Gubernur Ntb Pramuka Pelopor Swasembada Pangan](https://www.lombokepo.site/2026/08/gubernur-ntb-pramuka-pelopor-swasembada-pangan.html)
 * [Bank Ntb Syariah Hut Lombok Timur](https://www.lombokepo.site/2026/08/bank-ntb-syariah-hut-lombok-timur.html)
 * [Kapolda Ntb Akhlak Rasulullah Setiap Pengabdian](https://www.lombokepo.site/2026/08/kapolda-ntb-akhlak-rasulullah-setiap-pengabdian.html)
-* [Polda Ntb Salurkan 550 Porsi Makanan Warga Ende](https://www.lombokepo.site/2026/08/polda-ntb-salurkan-550-porsi-makanan-warga-ende.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 30 August 2026_
