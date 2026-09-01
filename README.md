@@ -335,11 +335,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Pwnu Ntb Dukung Hasil Muktamar Ke 35 Nu](https://www.lombokepo.site/2026/08/pwnu-ntb-dukung-hasil-muktamar-ke-35-nu.html)
 * [Urc Puma Polda Ntb Bekuk Residivis Curanmor Mataram](https://www.lombokepo.site/2026/08/urc-puma-polda-ntb-bekuk-residivis-curanmor-mataram.html)
 * [Puma Jatanras Polda Ntb Patroli Malam](https://www.lombokepo.site/2026/08/puma-jatanras-polda-ntb-patroli-malam.html)
 * [33 Tahun Kota Mataram Gubernur Ntb Terus Melangkah](https://www.lombokepo.site/2026/08/33-tahun-kota-mataram-gubernur-ntb-terus-melangkah.html)
 * [Teja Ambara Gelar Festival Layang Layang](https://www.lombokepo.site/2026/08/teja-ambara-gelar-festival-layang-layang.html)
-* [Pelantikan Perbasasi Ntb Baseball Softball Menuju Pon 2028](https://www.lombokepo.site/2026/08/pelantikan-perbasasi-ntb-baseball-softball-menuju-pon-2028.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 31 August 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 01 September 2026_
