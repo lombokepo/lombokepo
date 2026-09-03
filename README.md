@@ -342,11 +342,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Mengenal Kepo Rubrik Baru Lombokepo](https://www.lombokepo.site/2026/09/mengenal-kepo-rubrik-baru-lombokepo.html)
+* [Putri Mahkota Victoria Kunjungi Ntb](https://www.lombokepo.site/2026/09/putri-mahkota-victoria-kunjungi-ntb.html)
 * [Gpm Hut Tvri Pangan Murah Warga Ntb](https://www.lombokepo.site/2026/09/gpm-hut-tvri-pangan-murah-warga-ntb.html)
 * [Pwi Ntb Okk Ukw 54 Wartawan](https://www.lombokepo.site/2026/09/pwi-ntb-okk-ukw-54-wartawan.html)
 * [Inflasi 403 Persen Ekonomi Ntb Tetap Tangguh](https://www.lombokepo.site/2026/09/inflasi-403-persen-ekonomi-ntb-tetap-tangguh.html)
-* [Gubernur Ntb Dan Danlanal Mataram Perkuat Sinergi](https://www.lombokepo.site/2026/09/gubernur-ntb-dan-danlanal-mataram-perkuat-sinergi.html)
-* [Kapolri Silaturahmi 6500 Eks Ji Surakarta](https://www.lombokepo.site/2026/09/kapolri-silaturahmi-6500-eks-ji-surakarta.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 03 September 2026_
