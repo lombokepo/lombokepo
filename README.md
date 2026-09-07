@@ -354,11 +354,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Wabup Nurul Adha Asn Harus Berintegritas](https://www.lombokepo.site/2026/09/wabup-nurul-adha-asn-harus-berintegritas.html)
+* [Berantas Rokok Ilegal](https://www.lombokepo.site/2026/09/berantas-rokok-ilegal.html)
+* [Putri Victoria Melihat Ntb Bangkit Pemulihan Ekonomi Biru](https://www.lombokepo.site/2026/09/putri-victoria-melihat-ntb-bangkit-pemulihan-ekonomi-biru.html)
 * [Putri Victoria Ke Gili Meno Dan Karang Bajo Lombok Utara](https://www.lombokepo.site/2026/09/putri-victoria-ke-gili-meno-dan-karang-bajo-lombok-utara.html)
 * [Tp Pkk Ntb Perkuat Perlindungan Keluarga Dari Radikalisme](https://www.lombokepo.site/2026/09/tp-pkk-ntb-perkuat-perlindungan-keluarga-dari-radikalisme.html)
-* [Polwan Ntb Asah Keterampilan Moge Jelang Motogp Mandalika](https://www.lombokepo.site/2026/09/polwan-ntb-asah-keterampilan-moge-jelang-motogp-mandalika.html)
-* [Mengenal Kepo Rubrik Baru Lombokepo](https://www.lombokepo.site/2026/09/mengenal-kepo-rubrik-baru-lombokepo.html)
-* [Putri Mahkota Victoria Kunjungi Ntb](https://www.lombokepo.site/2026/09/putri-mahkota-victoria-kunjungi-ntb.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 06 September 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 07 September 2026_
