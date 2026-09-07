@@ -355,11 +355,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Knpi Kota Bima Apresiasi Program Kamtibmas Kapolda Ntb](https://www.lombokepo.site/2026/09/knpi-kota-bima-apresiasi-program-kamtibmas-kapolda-ntb.html)
+* [Patroli Rinjani Presisi Polda Ntb Mataram](https://www.lombokepo.site/2026/09/patroli-rinjani-presisi-polda-ntb-mataram.html)
+* [Kepo Buat Website Blogspot Custom Domain](https://www.lombokepo.site/2026/09/kepo-buat-website-blogspot-custom-domain.html)
 * [Wabup Nurul Adha Asn Harus Berintegritas](https://www.lombokepo.site/2026/09/wabup-nurul-adha-asn-harus-berintegritas.html)
 * [Berantas Rokok Ilegal](https://www.lombokepo.site/2026/09/berantas-rokok-ilegal.html)
-* [Putri Victoria Melihat Ntb Bangkit Pemulihan Ekonomi Biru](https://www.lombokepo.site/2026/09/putri-victoria-melihat-ntb-bangkit-pemulihan-ekonomi-biru.html)
-* [Putri Victoria Ke Gili Meno Dan Karang Bajo Lombok Utara](https://www.lombokepo.site/2026/09/putri-victoria-ke-gili-meno-dan-karang-bajo-lombok-utara.html)
-* [Tp Pkk Ntb Perkuat Perlindungan Keluarga Dari Radikalisme](https://www.lombokepo.site/2026/09/tp-pkk-ntb-perkuat-perlindungan-keluarga-dari-radikalisme.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 07 September 2026_
