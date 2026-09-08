@@ -356,11 +356,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Damkarmat Lobar Laporan Kebakaran Prank](https://www.lombokepo.site/2026/09/damkarmat-lobar-laporan-kebakaran-prank.html)
 * [Knpi Kota Bima Apresiasi Program Kamtibmas Kapolda Ntb](https://www.lombokepo.site/2026/09/knpi-kota-bima-apresiasi-program-kamtibmas-kapolda-ntb.html)
 * [Patroli Rinjani Presisi Polda Ntb Mataram](https://www.lombokepo.site/2026/09/patroli-rinjani-presisi-polda-ntb-mataram.html)
 * [Kepo Buat Website Blogspot Custom Domain](https://www.lombokepo.site/2026/09/kepo-buat-website-blogspot-custom-domain.html)
 * [Wabup Nurul Adha Asn Harus Berintegritas](https://www.lombokepo.site/2026/09/wabup-nurul-adha-asn-harus-berintegritas.html)
-* [Berantas Rokok Ilegal](https://www.lombokepo.site/2026/09/berantas-rokok-ilegal.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 07 September 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 08 September 2026_
