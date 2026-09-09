@@ -359,6 +359,7 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
 * [Jelang Motogp Mandalika Polda Ntb Survei Jalur Evakuasi](https://www.lombokepo.site/2026/09/jelang-motogp-mandalika-polda-ntb-survei-jalur-evakuasi.html)
 * [Apbd P 2026 Tindak Lanjuti Arahan Kpk](https://www.lombokepo.site/2026/09/apbd-p-2026-tindak-lanjuti-arahan-kpk.html)
@@ -366,4 +367,4 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 * [Knpi Kota Bima Apresiasi Program Kamtibmas Kapolda Ntb](https://www.lombokepo.site/2026/09/knpi-kota-bima-apresiasi-program-kamtibmas-kapolda-ntb.html)
 * [Patroli Rinjani Presisi Polda Ntb Mataram](https://www.lombokepo.site/2026/09/patroli-rinjani-presisi-polda-ntb-mataram.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 08 September 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 09 September 2026_
