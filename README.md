@@ -362,11 +362,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Rbm Dorong Sistem Bangunan Terintegrasi](https://www.lombokepo.site/2026/09/rbm-dorong-sistem-bangunan-terintegrasi.html)
 * [Ondo Finance Floq Tokenisasi Saham Etf As Indonesia](https://www.lombokepo.site/2026/09/ondo-finance-floq-tokenisasi-saham-etf-as-indonesia.html)
 * [Penjahit Terdekat Seragam Manufaktur Pakaian Perusahaan](https://www.lombokepo.site/2026/09/penjahit-terdekat-seragam-manufaktur-pakaian-perusahaan.html)
 * [Palantir Apple Saham Teknologi As Katalis Pertumbuhan](https://www.lombokepo.site/2026/09/palantir-apple-saham-teknologi-as-katalis-pertumbuhan.html)
 * [Jelang Motogp Ntb Dorong Maskapai Tambah Penerbangan](https://www.lombokepo.site/2026/09/jelang-motogp-ntb-dorong-maskapai-tambah-penerbangan.html)
-* [Polda Ntb Matangkan Pengamanan Motogp](https://www.lombokepo.site/2026/09/polda-ntb-matangkan-pengamanan-motogp.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 09 September 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 10 September 2026_
