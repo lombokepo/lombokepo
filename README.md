@@ -369,11 +369,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Bittime Data Ekonomi As Pergerakan Harga Kripto](https://www.lombokepo.site/2026/09/bittime-data-ekonomi-as-pergerakan-harga-kripto.html)
+* [Musda Demokrat Ntb 18 September 2026](https://www.lombokepo.site/2026/09/musda-demokrat-ntb-18-september-2026.html)
+* [Transcosmos Indonesia Perluas Operasional Ke Bali](https://www.lombokepo.site/2026/09/transcosmos-indonesia-perluas-operasional-ke-bali.html)
 * [Polda Ntb Cegah Api Meluas](https://www.lombokepo.site/2026/09/polda-ntb-cegah-api-meluas.html)
 * [3 69 Juta Pengguna Ka Daop 2 Bandung Naik 10 Persen](https://www.lombokepo.site/2026/09/3-69-juta-pengguna-ka-daop-2-bandung-naik-10-persen.html)
-* [Cara Menyusun Tujuan Keuangan Quarter Life Crisis](https://www.lombokepo.site/2026/09/cara-menyusun-tujuan-keuangan-quarter-life-crisis.html)
-* [Ensia 2026 Inovasi Bisnis Berkelanjutan Ketangguhan Masyarakat](https://www.lombokepo.site/2026/09/ensia-2026-inovasi-bisnis-berkelanjutan-ketangguhan-masyarakat.html)
-* [Bittime Sambut Aturan Ojk Terbaru Aset Digital](https://www.lombokepo.site/2026/09/bittime-sambut-aturan-ojk-terbaru-aset-digital.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 12 September 2026_
