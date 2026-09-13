@@ -372,11 +372,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Bypass Otak Kini Bisa Dilakukan Di Rsud Ntb](https://www.lombokepo.site/2026/09/bypass-otak-kini-bisa-dilakukan-di-rsud-ntb.html)
+* [Pasar Mobil Baru Menguat Bri Finance](https://www.lombokepo.site/2026/09/pasar-mobil-baru-menguat-bri-finance.html)
 * [Lrt Jabodebek Ingatkan Etika Penumpang](https://www.lombokepo.site/2026/09/lrt-jabodebek-ingatkan-etika-penumpang.html)
 * [Bitcoin Tekanan Baru Kembali Us80 Ribu](https://www.lombokepo.site/2026/09/bitcoin-tekanan-baru-kembali-us80-ribu.html)
 * [5 Tips Membayar Bpjs Kesehatan](https://www.lombokepo.site/2026/09/5-tips-membayar-bpjs-kesehatan.html)
-* [India Indonesia Kerja Sama Pertambangan](https://www.lombokepo.site/2026/09/india-indonesia-kerja-sama-pertambangan.html)
-* [Bittime Data Ekonomi As Pergerakan Harga Kripto](https://www.lombokepo.site/2026/09/bittime-data-ekonomi-as-pergerakan-harga-kripto.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 12 September 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 13 September 2026_
