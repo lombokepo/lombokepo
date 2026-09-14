@@ -376,11 +376,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Jejak Budaya Lombok Bima Di Australia](https://www.lombokepo.site/2026/09/jejak-budaya-lombok-bima-di-australia.html)
 * [Indonet Internet Dedicated Ai Credit Gratis](https://www.lombokepo.site/2026/09/indonet-internet-dedicated-ai-credit-gratis.html)
 * [Pelabuhan Tanjung Emas Gerbang Ekspor Impor Jateng](https://www.lombokepo.site/2026/09/pelabuhan-tanjung-emas-gerbang-ekspor-impor-jateng.html)
 * [Bypass Otak Kini Bisa Dilakukan Di Rsud Ntb](https://www.lombokepo.site/2026/09/bypass-otak-kini-bisa-dilakukan-di-rsud-ntb.html)
 * [Pasar Mobil Baru Menguat Bri Finance](https://www.lombokepo.site/2026/09/pasar-mobil-baru-menguat-bri-finance.html)
-* [Lrt Jabodebek Ingatkan Etika Penumpang](https://www.lombokepo.site/2026/09/lrt-jabodebek-ingatkan-etika-penumpang.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 14 September 2026_
