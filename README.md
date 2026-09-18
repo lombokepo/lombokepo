@@ -387,11 +387,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Wagub Ntb Kepastian Hukum Fondasi Kepercayaan Investor](https://www.lombokepo.site/2026/09/wagub-ntb-kepastian-hukum-fondasi-kepercayaan-investor.html)
+* [Kai Logistik Bogantara Angkutan Pangan Kereta Api](https://www.lombokepo.site/2026/09/kai-logistik-bogantara-angkutan-pangan-kereta-api.html)
 * [Bbpom Mataram Perkuat Keamanan Pangan Mbg](https://www.lombokepo.site/2026/09/bbpom-mataram-perkuat-keamanan-pangan-mbg.html)
 * [Xauusd Berpotensi Lanjut Turun Level 4318](https://www.lombokepo.site/2026/09/xauusd-berpotensi-lanjut-turun-level-4318.html)
 * [Pemprov Ntb Gandeng Densus 88 Wahana Visi Susun Rad Pe](https://www.lombokepo.site/2026/09/pemprov-ntb-gandeng-densus-88-wahana-visi-susun-rad-pe.html)
-* [Saham Ai Tertekan Investor Waspada](https://www.lombokepo.site/2026/09/saham-ai-tertekan-investor-waspada.html)
-* [Jejak Budaya Lombok Bima Di Australia](https://www.lombokepo.site/2026/09/jejak-budaya-lombok-bima-di-australia.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 18 September 2026_
