@@ -399,11 +399,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Glow Society K Mall Menara Jakarta](https://www.lombokepo.site/2026/09/glow-society-k-mall-menara-jakarta.html)
+* [Laba Bri Finance Melesat 89 Persen](https://www.lombokepo.site/2026/09/laba-bri-finance-melesat-89-persen.html)
 * [Ditlantas Polda Ntb Penling Di Mataram](https://www.lombokepo.site/2026/09/ditlantas-polda-ntb-penling-di-mataram.html)
 * [Kepo 9 Motor Matic Paling Irit 2026](https://www.lombokepo.site/2026/09/kepo-9-motor-matic-paling-irit-2026.html)
 * [Bank Raya Raih Penghargaan Esg 2026 Sustainable Finance](https://www.lombokepo.site/2026/09/bank-raya-raih-penghargaan-esg-2026-sustainable-finance.html)
-* [Wagub Ntb Kepastian Hukum Fondasi Kepercayaan Investor](https://www.lombokepo.site/2026/09/wagub-ntb-kepastian-hukum-fondasi-kepercayaan-investor.html)
-* [Kai Logistik Bogantara Angkutan Pangan Kereta Api](https://www.lombokepo.site/2026/09/kai-logistik-bogantara-angkutan-pangan-kereta-api.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 22 September 2026_
