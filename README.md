@@ -402,11 +402,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Sanct Hadir Di Indonesia 29 September](https://www.lombokepo.site/2026/09/sanct-hadir-di-indonesia-29-september.html)
+* [Bank Ntb Syariah Perkuat Pembiayaan Perumahan Kur](https://www.lombokepo.site/2026/09/bank-ntb-syariah-perkuat-pembiayaan-perumahan-kur.html)
+* [Fikom Unasman Perkuat Kompetensi Mahasiswa Telkom Ai Center](https://www.lombokepo.site/2026/09/fikom-unasman-perkuat-kompetensi-mahasiswa-telkom-ai-center.html)
 * [Tuna Ntb Lombok Timur Pasar Amerika](https://www.lombokepo.site/2026/09/tuna-ntb-lombok-timur-pasar-amerika.html)
 * [Tantangan Dan Tips Menabung Emas](https://www.lombokepo.site/2026/09/tantangan-dan-tips-menabung-emas.html)
-* [Glow Society K Mall Menara Jakarta](https://www.lombokepo.site/2026/09/glow-society-k-mall-menara-jakarta.html)
-* [Laba Bri Finance Melesat 89 Persen](https://www.lombokepo.site/2026/09/laba-bri-finance-melesat-89-persen.html)
-* [Ditlantas Polda Ntb Penling Di Mataram](https://www.lombokepo.site/2026/09/ditlantas-polda-ntb-penling-di-mataram.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 23 September 2026_
