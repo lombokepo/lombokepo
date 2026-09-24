@@ -405,11 +405,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Pemuda Mataram Dikabarkan Berada Di Myanmar](https://www.lombokepo.site/2026/09/pemuda-mataram-dikabarkan-berada-di-myanmar.html)
+* [Gubernur Ntb Dorong Kebijakan Berbasis Data](https://www.lombokepo.site/2026/09/gubernur-ntb-dorong-kebijakan-berbasis-data.html)
+* [Binus Business School Qs Global Mba Rankings 2027](https://www.lombokepo.site/2026/09/binus-business-school-qs-global-mba-rankings-2027.html)
 * [Jelang Motogp Mandalika 2026 Polda Ntb Matangkan Operasi Cipta Kondisi](https://www.lombokepo.site/2026/09/jelang-motogp-mandalika-2026-polda-ntb-matangkan-operasi-cipta-kondisi.html)
 * [Sanct Hadir Di Indonesia 29 September](https://www.lombokepo.site/2026/09/sanct-hadir-di-indonesia-29-september.html)
-* [Bank Ntb Syariah Perkuat Pembiayaan Perumahan Kur](https://www.lombokepo.site/2026/09/bank-ntb-syariah-perkuat-pembiayaan-perumahan-kur.html)
-* [Fikom Unasman Perkuat Kompetensi Mahasiswa Telkom Ai Center](https://www.lombokepo.site/2026/09/fikom-unasman-perkuat-kompetensi-mahasiswa-telkom-ai-center.html)
-* [Tuna Ntb Lombok Timur Pasar Amerika](https://www.lombokepo.site/2026/09/tuna-ntb-lombok-timur-pasar-amerika.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 24 September 2026_
