@@ -417,11 +417,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Kripto Masa Depan Literasi Investor Blockchain](https://www.lombokepo.site/2026/09/kripto-masa-depan-literasi-investor-blockchain.html)
+* [Lmnd Ntb Titip Aspirasi Pendidikan Ke](https://www.lombokepo.site/2026/09/lmnd-ntb-titip-aspirasi-pendidikan-ke.html)
+* [90 Persen Umkm Ri Belum Optimalkan Ai](https://www.lombokepo.site/2026/09/90-persen-umkm-ri-belum-optimalkan-ai.html)
 * [Panduan Membersihkan Kandang Kucing](https://www.lombokepo.site/2026/09/panduan-membersihkan-kandang-kucing.html)
 * [Kemiri Vanili Ntb Tembus Pasar Global](https://www.lombokepo.site/2026/09/kemiri-vanili-ntb-tembus-pasar-global.html)
-* [Pemuda Mataram Dikabarkan Berada Di Myanmar](https://www.lombokepo.site/2026/09/pemuda-mataram-dikabarkan-berada-di-myanmar.html)
-* [Gubernur Ntb Dorong Kebijakan Berbasis Data](https://www.lombokepo.site/2026/09/gubernur-ntb-dorong-kebijakan-berbasis-data.html)
-* [Binus Business School Qs Global Mba Rankings 2027](https://www.lombokepo.site/2026/09/binus-business-school-qs-global-mba-rankings-2027.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 28 September 2026_
