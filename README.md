@@ -419,11 +419,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Hilirisasi Mineral Motor Baru Pertumbuhan Ekonomi](https://www.lombokepo.site/2026/09/hilirisasi-mineral-motor-baru-pertumbuhan-ekonomi.html)
 * [Kripto Masa Depan Literasi Investor Blockchain](https://www.lombokepo.site/2026/09/kripto-masa-depan-literasi-investor-blockchain.html)
 * [Lmnd Ntb Titip Aspirasi Pendidikan Ke](https://www.lombokepo.site/2026/09/lmnd-ntb-titip-aspirasi-pendidikan-ke.html)
 * [90 Persen Umkm Ri Belum Optimalkan Ai](https://www.lombokepo.site/2026/09/90-persen-umkm-ri-belum-optimalkan-ai.html)
 * [Panduan Membersihkan Kandang Kucing](https://www.lombokepo.site/2026/09/panduan-membersihkan-kandang-kucing.html)
-* [Kemiri Vanili Ntb Tembus Pasar Global](https://www.lombokepo.site/2026/09/kemiri-vanili-ntb-tembus-pasar-global.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 29 September 2026_
