@@ -421,11 +421,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Moladin Sewa Kepemilikan Mobil Listrik Driver Online](https://www.lombokepo.site/2026/09/moladin-sewa-kepemilikan-mobil-listrik-driver-online.html)
+* [Rsud Ntb Benchmark Rumah Sakit Daerah](https://www.lombokepo.site/2026/09/rsud-ntb-benchmark-rumah-sakit-daerah.html)
+* [Setc Kolaborasi Pemerintah Swasta Dorong Umkm Naik Kelas](https://www.lombokepo.site/2026/09/setc-kolaborasi-pemerintah-swasta-dorong-umkm-naik-kelas.html)
 * [Ntb Perkuat Kerja Sama Dengan Lampung](https://www.lombokepo.site/2026/09/ntb-perkuat-kerja-sama-dengan-lampung.html)
 * [Tips Mengatur Pengeluaran Kebiasaan Minum Kopi](https://www.lombokepo.site/2026/09/tips-mengatur-pengeluaran-kebiasaan-minum-kopi.html)
-* [Hilirisasi Mineral Motor Baru Pertumbuhan Ekonomi](https://www.lombokepo.site/2026/09/hilirisasi-mineral-motor-baru-pertumbuhan-ekonomi.html)
-* [Kripto Masa Depan Literasi Investor Blockchain](https://www.lombokepo.site/2026/09/kripto-masa-depan-literasi-investor-blockchain.html)
-* [Lmnd Ntb Titip Aspirasi Pendidikan Ke](https://www.lombokepo.site/2026/09/lmnd-ntb-titip-aspirasi-pendidikan-ke.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 30 September 2026_
