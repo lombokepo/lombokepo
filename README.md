@@ -420,11 +420,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Ntb Perkuat Kerja Sama Dengan Lampung](https://www.lombokepo.site/2026/09/ntb-perkuat-kerja-sama-dengan-lampung.html)
+* [Tips Mengatur Pengeluaran Kebiasaan Minum Kopi](https://www.lombokepo.site/2026/09/tips-mengatur-pengeluaran-kebiasaan-minum-kopi.html)
 * [Hilirisasi Mineral Motor Baru Pertumbuhan Ekonomi](https://www.lombokepo.site/2026/09/hilirisasi-mineral-motor-baru-pertumbuhan-ekonomi.html)
 * [Kripto Masa Depan Literasi Investor Blockchain](https://www.lombokepo.site/2026/09/kripto-masa-depan-literasi-investor-blockchain.html)
 * [Lmnd Ntb Titip Aspirasi Pendidikan Ke](https://www.lombokepo.site/2026/09/lmnd-ntb-titip-aspirasi-pendidikan-ke.html)
-* [90 Persen Umkm Ri Belum Optimalkan Ai](https://www.lombokepo.site/2026/09/90-persen-umkm-ri-belum-optimalkan-ai.html)
-* [Panduan Membersihkan Kandang Kucing](https://www.lombokepo.site/2026/09/panduan-membersihkan-kandang-kucing.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 29 September 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 30 September 2026_
