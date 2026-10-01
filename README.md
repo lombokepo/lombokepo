@@ -422,11 +422,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Biaya Hidup 3 Juta Masih Bisa Nabung](https://www.lombokepo.site/2026/09/biaya-hidup-3-juta-masih-bisa-nabung.html)
+* [Anggaran Rehab Gor Turide Untuk Pon](https://www.lombokepo.site/2026/09/anggaran-rehab-gor-turide-untuk-pon.html)
+* [Ai Multi Agen Pangkas Waktu Kerja Perusahaan](https://www.lombokepo.site/2026/09/ai-multi-agen-pangkas-waktu-kerja-perusahaan.html)
 * [Moladin Sewa Kepemilikan Mobil Listrik Driver Online](https://www.lombokepo.site/2026/09/moladin-sewa-kepemilikan-mobil-listrik-driver-online.html)
 * [Rsud Ntb Benchmark Rumah Sakit Daerah](https://www.lombokepo.site/2026/09/rsud-ntb-benchmark-rumah-sakit-daerah.html)
-* [Setc Kolaborasi Pemerintah Swasta Dorong Umkm Naik Kelas](https://www.lombokepo.site/2026/09/setc-kolaborasi-pemerintah-swasta-dorong-umkm-naik-kelas.html)
-* [Ntb Perkuat Kerja Sama Dengan Lampung](https://www.lombokepo.site/2026/09/ntb-perkuat-kerja-sama-dengan-lampung.html)
-* [Tips Mengatur Pengeluaran Kebiasaan Minum Kopi](https://www.lombokepo.site/2026/09/tips-mengatur-pengeluaran-kebiasaan-minum-kopi.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 30 September 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 01 October 2026_
