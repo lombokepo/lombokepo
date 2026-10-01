@@ -423,11 +423,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Dprd Ntb Tetapkan Dua Raperda Menjadi Perda](https://www.lombokepo.site/2026/09/dprd-ntb-tetapkan-dua-raperda-menjadi-perda.html)
+* [Data Berkualitas Fondasi Perencanaan Pembangunan Ntb](https://www.lombokepo.site/2026/10/data-berkualitas-fondasi-perencanaan-pembangunan-ntb.html)
+* [Meta Business Agent Vs Ai Agent Pihak Ketiga](https://www.lombokepo.site/2026/10/meta-business-agent-vs-ai-agent-pihak-ketiga.html)
 * [Biaya Hidup 3 Juta Masih Bisa Nabung](https://www.lombokepo.site/2026/09/biaya-hidup-3-juta-masih-bisa-nabung.html)
 * [Anggaran Rehab Gor Turide Untuk Pon](https://www.lombokepo.site/2026/09/anggaran-rehab-gor-turide-untuk-pon.html)
-* [Ai Multi Agen Pangkas Waktu Kerja Perusahaan](https://www.lombokepo.site/2026/09/ai-multi-agen-pangkas-waktu-kerja-perusahaan.html)
-* [Moladin Sewa Kepemilikan Mobil Listrik Driver Online](https://www.lombokepo.site/2026/09/moladin-sewa-kepemilikan-mobil-listrik-driver-online.html)
-* [Rsud Ntb Benchmark Rumah Sakit Daerah](https://www.lombokepo.site/2026/09/rsud-ntb-benchmark-rumah-sakit-daerah.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 01 October 2026_
