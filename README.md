@@ -424,11 +424,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Budi Satria Enam Emas Dasan Agung Porprov](https://www.lombokepo.site/2026/10/budi-satria-enam-emas-dasan-agung-porprov.html)
+* [7 Perempuan Penjaga Hutan Bawa Cerita](https://www.lombokepo.site/2026/10/7-perempuan-penjaga-hutan-bawa-cerita.html)
+* [Nonton Motogp Mandalika Polisi Ingatkan Balita](https://www.lombokepo.site/2026/10/nonton-motogp-mandalika-polisi-ingatkan-balita.html)
 * [Dprd Ntb Tetapkan Dua Raperda Menjadi Perda](https://www.lombokepo.site/2026/09/dprd-ntb-tetapkan-dua-raperda-menjadi-perda.html)
 * [Data Berkualitas Fondasi Perencanaan Pembangunan Ntb](https://www.lombokepo.site/2026/10/data-berkualitas-fondasi-perencanaan-pembangunan-ntb.html)
-* [Meta Business Agent Vs Ai Agent Pihak Ketiga](https://www.lombokepo.site/2026/10/meta-business-agent-vs-ai-agent-pihak-ketiga.html)
-* [Biaya Hidup 3 Juta Masih Bisa Nabung](https://www.lombokepo.site/2026/09/biaya-hidup-3-juta-masih-bisa-nabung.html)
-* [Anggaran Rehab Gor Turide Untuk Pon](https://www.lombokepo.site/2026/09/anggaran-rehab-gor-turide-untuk-pon.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 01 October 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 02 October 2026_
