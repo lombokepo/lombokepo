@@ -425,11 +425,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Silsilahkeluarga Id Platform Silsilah Keluarga Indonesia](https://www.lombokepo.site/2026/10/silsilahkeluarga-id-platform-silsilah-keluarga-indonesia.html)
+* [Ekspor Ntb Melonjak 296 Persen](https://www.lombokepo.site/2026/10/ekspor-ntb-melonjak-296-persen.html)
+* [Summit Glow Luncurkan Skincare Outdoor](https://www.lombokepo.site/2026/10/summit-glow-luncurkan-skincare-outdoor.html)
 * [Budi Satria Enam Emas Dasan Agung Porprov](https://www.lombokepo.site/2026/10/budi-satria-enam-emas-dasan-agung-porprov.html)
 * [7 Perempuan Penjaga Hutan Bawa Cerita](https://www.lombokepo.site/2026/10/7-perempuan-penjaga-hutan-bawa-cerita.html)
-* [Nonton Motogp Mandalika Polisi Ingatkan Balita](https://www.lombokepo.site/2026/10/nonton-motogp-mandalika-polisi-ingatkan-balita.html)
-* [Dprd Ntb Tetapkan Dua Raperda Menjadi Perda](https://www.lombokepo.site/2026/09/dprd-ntb-tetapkan-dua-raperda-menjadi-perda.html)
-* [Data Berkualitas Fondasi Perencanaan Pembangunan Ntb](https://www.lombokepo.site/2026/10/data-berkualitas-fondasi-perencanaan-pembangunan-ntb.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 02 October 2026_
