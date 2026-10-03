@@ -427,11 +427,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Qariah Ntb Khairunnisa Wakili Indonesia Mtq Internasional Malaysia](https://www.lombokepo.site/2026/10/qariah-ntb-khairunnisa-wakili-indonesia-mtq-internasional-malaysia.html)
 * [Silsilahkeluarga Id Platform Silsilah Keluarga Indonesia](https://www.lombokepo.site/2026/10/silsilahkeluarga-id-platform-silsilah-keluarga-indonesia.html)
 * [Ekspor Ntb Melonjak 296 Persen](https://www.lombokepo.site/2026/10/ekspor-ntb-melonjak-296-persen.html)
 * [Summit Glow Luncurkan Skincare Outdoor](https://www.lombokepo.site/2026/10/summit-glow-luncurkan-skincare-outdoor.html)
 * [Budi Satria Enam Emas Dasan Agung Porprov](https://www.lombokepo.site/2026/10/budi-satria-enam-emas-dasan-agung-porprov.html)
-* [7 Perempuan Penjaga Hutan Bawa Cerita](https://www.lombokepo.site/2026/10/7-perempuan-penjaga-hutan-bawa-cerita.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 03 October 2026_
