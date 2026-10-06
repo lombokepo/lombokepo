@@ -433,11 +433,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Inspektorat Ntb Integritas](https://www.lombokepo.site/2026/10/inspektorat-ntb-integritas.html)
 * [Inspektorat Ntb Kesaktian Pancasila](https://www.lombokepo.site/2026/10/inspektorat-ntb-kesaktian-pancasila.html)
 * [Qariah Ntb Khairunnisa Wakili Indonesia Mtq Internasional Malaysia](https://www.lombokepo.site/2026/10/qariah-ntb-khairunnisa-wakili-indonesia-mtq-internasional-malaysia.html)
 * [Silsilahkeluarga Id Platform Silsilah Keluarga Indonesia](https://www.lombokepo.site/2026/10/silsilahkeluarga-id-platform-silsilah-keluarga-indonesia.html)
 * [Ekspor Ntb Melonjak 296 Persen](https://www.lombokepo.site/2026/10/ekspor-ntb-melonjak-296-persen.html)
-* [Summit Glow Luncurkan Skincare Outdoor](https://www.lombokepo.site/2026/10/summit-glow-luncurkan-skincare-outdoor.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 05 October 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 06 October 2026_
