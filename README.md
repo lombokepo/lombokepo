@@ -438,11 +438,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Whatsapp Call Lebih Hemat Daripada Chat](https://www.lombokepo.site/2026/10/whatsapp-call-lebih-hemat-daripada-chat.html)
 * [Bujet Skincare Bulanan Cara Mengaturnya](https://www.lombokepo.site/2026/10/bujet-skincare-bulanan-cara-mengaturnya.html)
 * [Gubernur Ntb Komitmen Apbd Perubahan](https://www.lombokepo.site/2026/10/gubernur-ntb-komitmen-apbd-perubahan.html)
 * [Kodam Xxx Rinambora Perkuat Ketahanan Dan Kemajuan Ntb](https://www.lombokepo.site/2026/10/kodam-xxx-rinambora-perkuat-ketahanan-dan-kemajuan-ntb.html)
 * [Inspektorat Ntb Integritas](https://www.lombokepo.site/2026/10/inspektorat-ntb-integritas.html)
-* [Inspektorat Ntb Kesaktian Pancasila](https://www.lombokepo.site/2026/10/inspektorat-ntb-kesaktian-pancasila.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 08 October 2026_
