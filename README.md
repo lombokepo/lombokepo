@@ -437,11 +437,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Bujet Skincare Bulanan Cara Mengaturnya](https://www.lombokepo.site/2026/10/bujet-skincare-bulanan-cara-mengaturnya.html)
+* [Gubernur Ntb Komitmen Apbd Perubahan](https://www.lombokepo.site/2026/10/gubernur-ntb-komitmen-apbd-perubahan.html)
 * [Kodam Xxx Rinambora Perkuat Ketahanan Dan Kemajuan Ntb](https://www.lombokepo.site/2026/10/kodam-xxx-rinambora-perkuat-ketahanan-dan-kemajuan-ntb.html)
 * [Inspektorat Ntb Integritas](https://www.lombokepo.site/2026/10/inspektorat-ntb-integritas.html)
 * [Inspektorat Ntb Kesaktian Pancasila](https://www.lombokepo.site/2026/10/inspektorat-ntb-kesaktian-pancasila.html)
-* [Qariah Ntb Khairunnisa Wakili Indonesia Mtq Internasional Malaysia](https://www.lombokepo.site/2026/10/qariah-ntb-khairunnisa-wakili-indonesia-mtq-internasional-malaysia.html)
-* [Silsilahkeluarga Id Platform Silsilah Keluarga Indonesia](https://www.lombokepo.site/2026/10/silsilahkeluarga-id-platform-silsilah-keluarga-indonesia.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 07 October 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 08 October 2026_
