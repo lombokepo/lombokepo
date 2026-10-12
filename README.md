@@ -445,11 +445,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Motogp Mandalika 2026 Gerakkan Ekonomi](https://www.lombokepo.site/2026/10/motogp-mandalika-2026-gerakkan-ekonomi.html)
 * [Kammi Ntb Kondusivitas Motogp Mandalika](https://www.lombokepo.site/2026/10/kammi-ntb-kondusivitas-motogp-mandalika.html)
 * [Tips Traktir Teman Saat Ulang Tahun](https://www.lombokepo.site/2026/10/tips-traktir-teman-saat-ulang-tahun.html)
 * [Pmii Mataram Jaga Kondusivitas Motogp Mandalika](https://www.lombokepo.site/2026/10/pmii-mataram-jaga-kondusivitas-motogp-mandalika.html)
 * [Bank Ntb Syariah Beasiswa 15 Mahasiswa Unram](https://www.lombokepo.site/2026/10/bank-ntb-syariah-beasiswa-15-mahasiswa-unram.html)
-* [Dampak Motogp Mandalika 2026 Ekonomi Lokal Lombok](https://www.lombokepo.site/2026/10/dampak-motogp-mandalika-2026-ekonomi-lokal-lombok.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 11 October 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 12 October 2026_
