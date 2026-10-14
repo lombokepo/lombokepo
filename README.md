@@ -451,11 +451,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Perkuat Sinergi Bank Ntb Syariah Dukung](https://www.lombokepo.site/2026/10/perkuat-sinergi-bank-ntb-syariah-dukung.html)
 * [Mohan Roliskana Terpilih Pimpin Koni](https://www.lombokepo.site/2026/10/mohan-roliskana-terpilih-pimpin-koni.html)
 * [Rangka Baja Dirakit Di Bengkel](https://www.lombokepo.site/2026/10/rangka-baja-dirakit-di-bengkel.html)
 * [Motogp Mandalika 2026 Dongkrak Omzet](https://www.lombokepo.site/2026/10/motogp-mandalika-2026-dongkrak-omzet.html)
 * [Motogp Mandalika 2026 Gerakkan Ekonomi](https://www.lombokepo.site/2026/10/motogp-mandalika-2026-gerakkan-ekonomi.html)
-* [Kammi Ntb Kondusivitas Motogp Mandalika](https://www.lombokepo.site/2026/10/kammi-ntb-kondusivitas-motogp-mandalika.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 14 October 2026_
