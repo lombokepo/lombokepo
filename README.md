@@ -454,11 +454,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Hut Ke 81 Lombok Tengah Gubernur](https://www.lombokepo.site/2026/10/hut-ke-81-lombok-tengah-gubernur.html)
 * [Bank Ntb Syariah Hari Jadi Kabupaten Lombok Tengah](https://www.lombokepo.site/2026/10/bank-ntb-syariah-hari-jadi-kabupaten-lombok-tengah.html)
 * [Tuan Guru Bagu Berpulang Miq Iqbal Ntb](https://www.lombokepo.site/2026/10/tuan-guru-bagu-berpulang-miq-iqbal-ntb.html)
 * [Perkuat Sinergi Bank Ntb Syariah Dukung](https://www.lombokepo.site/2026/10/perkuat-sinergi-bank-ntb-syariah-dukung.html)
 * [Mohan Roliskana Terpilih Pimpin Koni](https://www.lombokepo.site/2026/10/mohan-roliskana-terpilih-pimpin-koni.html)
-* [Rangka Baja Dirakit Di Bengkel](https://www.lombokepo.site/2026/10/rangka-baja-dirakit-di-bengkel.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 15 October 2026_
