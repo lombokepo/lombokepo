@@ -460,11 +460,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Kammi Ntb Minta Venue Pon 2028 Merata](https://www.lombokepo.site/2026/10/kammi-ntb-minta-venue-pon-2028-merata.html)
+* [Tips Call Analytics Lead Generation Sales](https://www.lombokepo.site/2026/10/tips-call-analytics-lead-generation-sales.html)
 * [Ntb Peringkat Tiga Besar Pariwisata Ramah Muslim](https://www.lombokepo.site/2026/10/ntb-peringkat-tiga-besar-pariwisata-ramah-muslim.html)
 * [Hut Ke 81 Lombok Tengah Gubernur](https://www.lombokepo.site/2026/10/hut-ke-81-lombok-tengah-gubernur.html)
 * [Bank Ntb Syariah Hari Jadi Kabupaten Lombok Tengah](https://www.lombokepo.site/2026/10/bank-ntb-syariah-hari-jadi-kabupaten-lombok-tengah.html)
-* [Tuan Guru Bagu Berpulang Miq Iqbal Ntb](https://www.lombokepo.site/2026/10/tuan-guru-bagu-berpulang-miq-iqbal-ntb.html)
-* [Perkuat Sinergi Bank Ntb Syariah Dukung](https://www.lombokepo.site/2026/10/perkuat-sinergi-bank-ntb-syariah-dukung.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 17 October 2026_
