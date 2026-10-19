@@ -466,11 +466,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Bayi Orangutan Dari India Dipulangkan](https://www.lombokepo.site/2026/10/bayi-orangutan-dari-india-dipulangkan.html)
 * [Wagub Ntb Manajemen Risiko Cegah Penyimpangan](https://www.lombokepo.site/2026/10/wagub-ntb-manajemen-risiko-cegah-penyimpangan.html)
 * [Patrika Transparansi Lapangan Kerja](https://www.lombokepo.site/2026/10/patrika-transparansi-lapangan-kerja.html)
 * [Zulkifli Bujir Kisah Anak Taliwang](https://www.lombokepo.site/2026/10/zulkifli-bujir-kisah-anak-taliwang.html)
 * [Cegah Risiko Korupsi Pokir Anomali Dprd](https://www.lombokepo.site/2026/10/cegah-risiko-korupsi-pokir-anomali-dprd.html)
-* [Kammi Ntb Minta Venue Pon 2028 Merata](https://www.lombokepo.site/2026/10/kammi-ntb-minta-venue-pon-2028-merata.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 19 October 2026_
