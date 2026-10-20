@@ -468,11 +468,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Polda Ntb Donor Darah Humas Polri](https://www.lombokepo.site/2026/10/polda-ntb-donor-darah-humas-polri.html)
+* [Bpbd Ntb Perkuat Kesiapsiagaan Gempa](https://www.lombokepo.site/2026/10/bpbd-ntb-perkuat-kesiapsiagaan-gempa.html)
+* [Seririt Alternatif Menginap Lovina](https://www.lombokepo.site/2026/10/seririt-alternatif-menginap-lovina.html)
 * [Bayi Orangutan Dari India Dipulangkan](https://www.lombokepo.site/2026/10/bayi-orangutan-dari-india-dipulangkan.html)
 * [Wagub Ntb Manajemen Risiko Cegah Penyimpangan](https://www.lombokepo.site/2026/10/wagub-ntb-manajemen-risiko-cegah-penyimpangan.html)
-* [Patrika Transparansi Lapangan Kerja](https://www.lombokepo.site/2026/10/patrika-transparansi-lapangan-kerja.html)
-* [Zulkifli Bujir Kisah Anak Taliwang](https://www.lombokepo.site/2026/10/zulkifli-bujir-kisah-anak-taliwang.html)
-* [Cegah Risiko Korupsi Pokir Anomali Dprd](https://www.lombokepo.site/2026/10/cegah-risiko-korupsi-pokir-anomali-dprd.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 20 October 2026_
