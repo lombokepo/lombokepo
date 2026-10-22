@@ -475,11 +475,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Jaga Stabilitas Harga Pemprov Ntb Gelar](https://www.lombokepo.site/2026/10/jaga-stabilitas-harga-pemprov-ntb-gelar.html)
 * [Hari Santri 2026 Ponpes Lentera Hati](https://www.lombokepo.site/2026/10/hari-santri-2026-ponpes-lentera-hati.html)
 * [Harga Website Company Profile Umkm](https://www.lombokepo.site/2026/10/harga-website-company-profile-umkm.html)
 * [Ntbjawa Barat Perkuat Kerja Sama Pangan](https://www.lombokepo.site/2026/10/ntbjawa-barat-perkuat-kerja-sama-pangan.html)
 * [Tedy Alamsyah Ketua Perbarindo 2026 2030](https://www.lombokepo.site/2026/10/tedy-alamsyah-ketua-perbarindo-2026-2030.html)
-* [Sekolah Rakyat Prabowo Lombok Barat](https://www.lombokepo.site/2026/10/sekolah-rakyat-prabowo-lombok-barat.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 22 October 2026_
