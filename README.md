@@ -474,11 +474,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Hari Santri 2026 Ponpes Lentera Hati](https://www.lombokepo.site/2026/10/hari-santri-2026-ponpes-lentera-hati.html)
 * [Harga Website Company Profile Umkm](https://www.lombokepo.site/2026/10/harga-website-company-profile-umkm.html)
 * [Ntbjawa Barat Perkuat Kerja Sama Pangan](https://www.lombokepo.site/2026/10/ntbjawa-barat-perkuat-kerja-sama-pangan.html)
 * [Tedy Alamsyah Ketua Perbarindo 2026 2030](https://www.lombokepo.site/2026/10/tedy-alamsyah-ketua-perbarindo-2026-2030.html)
 * [Sekolah Rakyat Prabowo Lombok Barat](https://www.lombokepo.site/2026/10/sekolah-rakyat-prabowo-lombok-barat.html)
-* [Polda Ntb Donor Darah Humas Polri](https://www.lombokepo.site/2026/10/polda-ntb-donor-darah-humas-polri.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 22 October 2026_
