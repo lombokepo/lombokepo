@@ -473,11 +473,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Harga Website Company Profile Umkm](https://www.lombokepo.site/2026/10/harga-website-company-profile-umkm.html)
 * [Ntbjawa Barat Perkuat Kerja Sama Pangan](https://www.lombokepo.site/2026/10/ntbjawa-barat-perkuat-kerja-sama-pangan.html)
 * [Tedy Alamsyah Ketua Perbarindo 2026 2030](https://www.lombokepo.site/2026/10/tedy-alamsyah-ketua-perbarindo-2026-2030.html)
 * [Sekolah Rakyat Prabowo Lombok Barat](https://www.lombokepo.site/2026/10/sekolah-rakyat-prabowo-lombok-barat.html)
 * [Polda Ntb Donor Darah Humas Polri](https://www.lombokepo.site/2026/10/polda-ntb-donor-darah-humas-polri.html)
-* [Bpbd Ntb Perkuat Kesiapsiagaan Gempa](https://www.lombokepo.site/2026/10/bpbd-ntb-perkuat-kesiapsiagaan-gempa.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 21 October 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 22 October 2026_
