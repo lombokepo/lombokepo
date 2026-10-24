@@ -481,11 +481,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Gubernur Ntb Di Forum Dunia Ekonomi](https://www.lombokepo.site/2026/10/gubernur-ntb-di-forum-dunia-ekonomi.html)
 * [Tips Menabung Cepat Untuk Membeli Hp](https://www.lombokepo.site/2026/10/tips-menabung-cepat-untuk-membeli-hp.html)
 * [Bangunan Sudah Jadi Belum Boleh Dipakai](https://www.lombokepo.site/2026/10/bangunan-sudah-jadi-belum-boleh-dipakai.html)
 * [Kirim Uang Ke Keluarga Beda Bank](https://www.lombokepo.site/2026/10/kirim-uang-ke-keluarga-beda-bank.html)
 * [Jaga Stabilitas Harga Pemprov Ntb Gelar](https://www.lombokepo.site/2026/10/jaga-stabilitas-harga-pemprov-ntb-gelar.html)
-* [Hari Santri 2026 Ponpes Lentera Hati](https://www.lombokepo.site/2026/10/hari-santri-2026-ponpes-lentera-hati.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 24 October 2026_
