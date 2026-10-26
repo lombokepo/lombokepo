@@ -487,11 +487,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Lmnd Ntb Klarifikasi Dua Orang Ditangkap Kasus Narkoba](https://www.lombokepo.site/2026/10/lmnd-ntb-klarifikasi-dua-orang-ditangkap-kasus-narkoba.html)
+* [Ops Patuh Rinjani 2026 Polda Ntb](https://www.lombokepo.site/2026/10/ops-patuh-rinjani-2026-polda-ntb.html)
+* [Strawberry St100 Ponsel Keypad 4G](https://www.lombokepo.site/2026/10/strawberry-st100-ponsel-keypad-4g.html)
 * [Osl Indonesia Smsi Bangka Belitung Literasi Aset Kripto](https://www.lombokepo.site/2026/10/osl-indonesia-smsi-bangka-belitung-literasi-aset-kripto.html)
 * [Paremas Ekowisata Mangrove Berkelanjutan Lombok Timur](https://www.lombokepo.site/2026/10/paremas-ekowisata-mangrove-berkelanjutan-lombok-timur.html)
-* [Polda Ntb Ungkap Tujuh Kasus Penyalahgunaan Bbm](https://www.lombokepo.site/2026/10/polda-ntb-ungkap-tujuh-kasus-penyalahgunaan-bbm.html)
-* [Gubernur Iqbal Raih Santri Of Year 2026](https://www.lombokepo.site/2026/10/gubernur-iqbal-raih-santri-of-year-2026.html)
-* [Penggerebekan Sarang Narkoba Abian Tubuh Mataram](https://www.lombokepo.site/2026/10/penggerebekan-sarang-narkoba-abian-tubuh-mataram.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 26 October 2026_
