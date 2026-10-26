@@ -486,11 +486,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Osl Indonesia Smsi Bangka Belitung Literasi Aset Kripto](https://www.lombokepo.site/2026/10/osl-indonesia-smsi-bangka-belitung-literasi-aset-kripto.html)
+* [Paremas Ekowisata Mangrove Berkelanjutan Lombok Timur](https://www.lombokepo.site/2026/10/paremas-ekowisata-mangrove-berkelanjutan-lombok-timur.html)
+* [Polda Ntb Ungkap Tujuh Kasus Penyalahgunaan Bbm](https://www.lombokepo.site/2026/10/polda-ntb-ungkap-tujuh-kasus-penyalahgunaan-bbm.html)
 * [Gubernur Iqbal Raih Santri Of Year 2026](https://www.lombokepo.site/2026/10/gubernur-iqbal-raih-santri-of-year-2026.html)
 * [Penggerebekan Sarang Narkoba Abian Tubuh Mataram](https://www.lombokepo.site/2026/10/penggerebekan-sarang-narkoba-abian-tubuh-mataram.html)
-* [Gubernur Ntb Di Forum Dunia Ekonomi](https://www.lombokepo.site/2026/10/gubernur-ntb-di-forum-dunia-ekonomi.html)
-* [Tips Menabung Cepat Untuk Membeli Hp](https://www.lombokepo.site/2026/10/tips-menabung-cepat-untuk-membeli-hp.html)
-* [Bangunan Sudah Jadi Belum Boleh Dipakai](https://www.lombokepo.site/2026/10/bangunan-sudah-jadi-belum-boleh-dipakai.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 26 October 2026_
