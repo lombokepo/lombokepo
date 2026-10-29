@@ -493,11 +493,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Wagub Ntb Kongres Internasional Bahasa Sasak](https://www.lombokepo.site/2026/10/wagub-ntb-kongres-internasional-bahasa-sasak.html)
+* [Sumpah Pemuda Ke 98 Ntb Apresiasi](https://www.lombokepo.site/2026/10/sumpah-pemuda-ke-98-ntb-apresiasi.html)
+* [Penganiayaan Jalan Udayana Mataram 13 Orang Diamankan](https://www.lombokepo.site/2026/10/penganiayaan-jalan-udayana-mataram-13-orang-diamankan.html)
 * [Pilih Ketua Osis Smkn 1 Gunungsari](https://www.lombokepo.site/2026/10/pilih-ketua-osis-smkn-1-gunungsari.html)
 * [Dokkes Polda Ntb Siaga Mulang Pakelem Rinjani](https://www.lombokepo.site/2026/10/dokkes-polda-ntb-siaga-mulang-pakelem-rinjani.html)
-* [Lmnd Ntb Klarifikasi Dua Orang Ditangkap Kasus Narkoba](https://www.lombokepo.site/2026/10/lmnd-ntb-klarifikasi-dua-orang-ditangkap-kasus-narkoba.html)
-* [Ops Patuh Rinjani 2026 Polda Ntb](https://www.lombokepo.site/2026/10/ops-patuh-rinjani-2026-polda-ntb.html)
-* [Strawberry St100 Ponsel Keypad 4G](https://www.lombokepo.site/2026/10/strawberry-st100-ponsel-keypad-4g.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 28 October 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 29 October 2026_
