@@ -495,11 +495,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Kapolda Ntb Imbau Orang Tua Awasi Anak](https://www.lombokepo.site/2026/10/kapolda-ntb-imbau-orang-tua-awasi-anak.html)
 * [Wagub Ntb Kongres Internasional Bahasa Sasak](https://www.lombokepo.site/2026/10/wagub-ntb-kongres-internasional-bahasa-sasak.html)
 * [Sumpah Pemuda Ke 98 Ntb Apresiasi](https://www.lombokepo.site/2026/10/sumpah-pemuda-ke-98-ntb-apresiasi.html)
 * [Penganiayaan Jalan Udayana Mataram 13 Orang Diamankan](https://www.lombokepo.site/2026/10/penganiayaan-jalan-udayana-mataram-13-orang-diamankan.html)
 * [Pilih Ketua Osis Smkn 1 Gunungsari](https://www.lombokepo.site/2026/10/pilih-ketua-osis-smkn-1-gunungsari.html)
-* [Dokkes Polda Ntb Siaga Mulang Pakelem Rinjani](https://www.lombokepo.site/2026/10/dokkes-polda-ntb-siaga-mulang-pakelem-rinjani.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 29 October 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 30 October 2026_
