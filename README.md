@@ -500,11 +500,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Lenterahati Buka Spmb Smp Sma 2027 2028](https://www.lombokepo.site/2026/11/lenterahati-buka-spmb-smp-sma-2027-2028.html)
+* [Bank Mandiri Taspen Ajak Pensiunan](https://www.lombokepo.site/2026/11/bank-mandiri-taspen-ajak-pensiunan.html)
 * [Akustik Ruang Rapat Berisik Pencahayaan](https://www.lombokepo.site/2026/10/akustik-ruang-rapat-berisik-pencahayaan.html)
 * [Lalu Wiredane Terpilih Kades Penujak ](https://www.lombokepo.site/2026/10/lalu-wiredane-terpilih-kades-penujak-.html)
 * [Apakah Deposito Kena Pajak](https://www.lombokepo.site/2026/10/apakah-deposito-kena-pajak.html)
-* [5 Penyebab Perjalanan Batal Sudah Siap](https://www.lombokepo.site/2026/10/5-penyebab-perjalanan-batal-sudah-siap.html)
-* [Mataram Mulai Kehilangan Rasa Aman](https://www.lombokepo.site/2026/10/mataram-mulai-kehilangan-rasa-aman.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 01 November 2026_
