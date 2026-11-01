@@ -499,11 +499,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Akustik Ruang Rapat Berisik Pencahayaan](https://www.lombokepo.site/2026/10/akustik-ruang-rapat-berisik-pencahayaan.html)
 * [Lalu Wiredane Terpilih Kades Penujak ](https://www.lombokepo.site/2026/10/lalu-wiredane-terpilih-kades-penujak-.html)
 * [Apakah Deposito Kena Pajak](https://www.lombokepo.site/2026/10/apakah-deposito-kena-pajak.html)
 * [5 Penyebab Perjalanan Batal Sudah Siap](https://www.lombokepo.site/2026/10/5-penyebab-perjalanan-batal-sudah-siap.html)
 * [Mataram Mulai Kehilangan Rasa Aman](https://www.lombokepo.site/2026/10/mataram-mulai-kehilangan-rasa-aman.html)
-* [Kapolda Ntb Imbau Orang Tua Awasi Anak](https://www.lombokepo.site/2026/10/kapolda-ntb-imbau-orang-tua-awasi-anak.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 31 October 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 01 November 2026_
