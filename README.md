@@ -501,11 +501,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Inspektorat Ntb Selamat Hari Sumpah](https://www.lombokepo.site/2026/10/inspektorat-ntb-selamat-hari-sumpah.html)
+* [Tips Menabung Harian Dari Pengeluaran Kecil](https://www.lombokepo.site/2026/11/tips-menabung-harian-dari-pengeluaran-kecil.html)
 * [Lenterahati Buka Spmb Smp Sma 2027 2028](https://www.lombokepo.site/2026/11/lenterahati-buka-spmb-smp-sma-2027-2028.html)
 * [Bank Mandiri Taspen Ajak Pensiunan](https://www.lombokepo.site/2026/11/bank-mandiri-taspen-ajak-pensiunan.html)
 * [Akustik Ruang Rapat Berisik Pencahayaan](https://www.lombokepo.site/2026/10/akustik-ruang-rapat-berisik-pencahayaan.html)
-* [Lalu Wiredane Terpilih Kades Penujak ](https://www.lombokepo.site/2026/10/lalu-wiredane-terpilih-kades-penujak-.html)
-* [Apakah Deposito Kena Pajak](https://www.lombokepo.site/2026/10/apakah-deposito-kena-pajak.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 01 November 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 02 November 2026_
