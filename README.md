@@ -509,11 +509,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Catut Nama Wagub Ntb Untuk Minta Uang](https://www.lombokepo.site/2026/11/catut-nama-wagub-ntb-untuk-minta-uang.html)
 * [Kapolda Ntb Sosialisasikan Program Poliran](https://www.lombokepo.site/2026/11/kapolda-ntb-sosialisasikan-program-poliran.html)
 * [Harga Pangan Ntb Stabil Pasokan Aman](https://www.lombokepo.site/2026/11/harga-pangan-ntb-stabil-pasokan-aman.html)
 * [Hut Humas Polri Ke 75 Polda Ntb Perkuat](https://www.lombokepo.site/2026/11/hut-humas-polri-ke-75-polda-ntb-perkuat.html)
 * [Pemprov Ntb Perkuat Pencegahan Pinjol](https://www.lombokepo.site/2026/11/pemprov-ntb-perkuat-pencegahan-pinjol.html)
-* [Bnnp Ntb Dan Kodim Sumbawa Bekuk Sejoli](https://www.lombokepo.site/2026/11/bnnp-ntb-dan-kodim-sumbawa-bekuk-sejoli.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 05 November 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 06 November 2026_
