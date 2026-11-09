@@ -515,11 +515,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Gubernur Miq Iqbal Persiapan Pon](https://www.lombokepo.site/2026/11/gubernur-miq-iqbal-persiapan-pon.html)
 * [Tips Pembalut Tidak Bergeser Saat Tidur](https://www.lombokepo.site/2026/11/tips-pembalut-tidak-bergeser-saat-tidur.html)
 * [Cara Memilih Pembalut Anti Bocor Siang Hari](https://www.lombokepo.site/2026/11/cara-memilih-pembalut-anti-bocor-siang-hari.html)
 * [Catut Nama Wagub Ntb Untuk Minta Uang](https://www.lombokepo.site/2026/11/catut-nama-wagub-ntb-untuk-minta-uang.html)
 * [Kapolda Ntb Sosialisasikan Program Poliran](https://www.lombokepo.site/2026/11/kapolda-ntb-sosialisasikan-program-poliran.html)
-* [Harga Pangan Ntb Stabil Pasokan Aman](https://www.lombokepo.site/2026/11/harga-pangan-ntb-stabil-pasokan-aman.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 08 November 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 09 November 2026_
