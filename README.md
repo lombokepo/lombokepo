@@ -519,11 +519,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Inspektorat Ntb Hari Pahlawan](https://www.lombokepo.site/2026/11/inspektorat-ntb-hari-pahlawan.html)
+* [Pemprov Ntb Integrasikan 30 Layanan](https://www.lombokepo.site/2026/11/pemprov-ntb-integrasikan-30-layanan.html)
+* [Pangdam Xxxrinambora Pimpin Upacara](https://www.lombokepo.site/2026/11/pangdam-xxxrinambora-pimpin-upacara.html)
 * [Polda Ntb Ungkap 44 Perkara Kejahatan](https://www.lombokepo.site/2026/11/polda-ntb-ungkap-44-perkara-kejahatan.html)
 * [Wagub Ntb Tegaskan Apbd 2027 Harus](https://www.lombokepo.site/2026/11/wagub-ntb-tegaskan-apbd-2027-harus.html)
-* [Gubernur Miq Iqbal Persiapan Pon](https://www.lombokepo.site/2026/11/gubernur-miq-iqbal-persiapan-pon.html)
-* [Tips Pembalut Tidak Bergeser Saat Tidur](https://www.lombokepo.site/2026/11/tips-pembalut-tidak-bergeser-saat-tidur.html)
-* [Cara Memilih Pembalut Anti Bocor Siang Hari](https://www.lombokepo.site/2026/11/cara-memilih-pembalut-anti-bocor-siang-hari.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 10 November 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 11 November 2026_
