@@ -520,11 +520,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Sekda Ntb Tekankan Pembenahan Tata](https://www.lombokepo.site/2026/11/sekda-ntb-tekankan-pembenahan-tata.html)
+* [Kenapa Tagihan Listrik Naik](https://www.lombokepo.site/2026/11/kenapa-tagihan-listrik-naik.html)
+* [Bank Ntb Syariah Buka Cabang Di Jakarta](https://www.lombokepo.site/2026/11/bank-ntb-syariah-buka-cabang-di-jakarta.html)
 * [Inspektorat Ntb Hari Pahlawan](https://www.lombokepo.site/2026/11/inspektorat-ntb-hari-pahlawan.html)
 * [Pemprov Ntb Integrasikan 30 Layanan](https://www.lombokepo.site/2026/11/pemprov-ntb-integrasikan-30-layanan.html)
-* [Pangdam Xxxrinambora Pimpin Upacara](https://www.lombokepo.site/2026/11/pangdam-xxxrinambora-pimpin-upacara.html)
-* [Polda Ntb Ungkap 44 Perkara Kejahatan](https://www.lombokepo.site/2026/11/polda-ntb-ungkap-44-perkara-kejahatan.html)
-* [Wagub Ntb Tegaskan Apbd 2027 Harus](https://www.lombokepo.site/2026/11/wagub-ntb-tegaskan-apbd-2027-harus.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 11 November 2026_
