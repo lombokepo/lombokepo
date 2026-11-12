@@ -521,11 +521,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Persemaian Mandalika Target 1 Juta Bibit Bersertifikat](https://www.lombokepo.site/2026/11/persemaian-mandalika-target-1-juta-bibit-bersertifikat.html)
 * [Sekda Ntb Tekankan Pembenahan Tata](https://www.lombokepo.site/2026/11/sekda-ntb-tekankan-pembenahan-tata.html)
 * [Kenapa Tagihan Listrik Naik](https://www.lombokepo.site/2026/11/kenapa-tagihan-listrik-naik.html)
 * [Bank Ntb Syariah Buka Cabang Di Jakarta](https://www.lombokepo.site/2026/11/bank-ntb-syariah-buka-cabang-di-jakarta.html)
 * [Inspektorat Ntb Hari Pahlawan](https://www.lombokepo.site/2026/11/inspektorat-ntb-hari-pahlawan.html)
-* [Pemprov Ntb Integrasikan 30 Layanan](https://www.lombokepo.site/2026/11/pemprov-ntb-integrasikan-30-layanan.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 11 November 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 12 November 2026_
