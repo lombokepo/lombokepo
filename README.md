@@ -524,11 +524,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Pangdam Xxxrinambora Sambangi Kodim](https://www.lombokepo.site/2026/11/pangdam-xxxrinambora-sambangi-kodim.html)
+* [Lem Kuning Masih Relevan Di Era Modern](https://www.lombokepo.site/2026/11/lem-kuning-masih-relevan-di-era-modern.html)
+* [Pemprov Ntb Prioritaskan Renovasi Venue Pon 2028](https://www.lombokepo.site/2026/11/pemprov-ntb-prioritaskan-renovasi-venue-pon-2028.html)
 * [Ijti Ntb Soroti Seleksi Komisioner Kpid](https://www.lombokepo.site/2026/11/ijti-ntb-soroti-seleksi-komisioner-kpid.html)
 * [Persemaian Mandalika Target 1 Juta Bibit Bersertifikat](https://www.lombokepo.site/2026/11/persemaian-mandalika-target-1-juta-bibit-bersertifikat.html)
-* [Sekda Ntb Tekankan Pembenahan Tata](https://www.lombokepo.site/2026/11/sekda-ntb-tekankan-pembenahan-tata.html)
-* [Kenapa Tagihan Listrik Naik](https://www.lombokepo.site/2026/11/kenapa-tagihan-listrik-naik.html)
-* [Bank Ntb Syariah Buka Cabang Di Jakarta](https://www.lombokepo.site/2026/11/bank-ntb-syariah-buka-cabang-di-jakarta.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 13 November 2026_
