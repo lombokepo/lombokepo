@@ -531,11 +531,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Wagub Ntb Sekolah Harus Bebas Bullying](https://www.lombokepo.site/2026/11/wagub-ntb-sekolah-harus-bebas-bullying.html)
 * [Pwnu Ntb Jumat Dan Subuh Keliling](https://www.lombokepo.site/2026/11/pwnu-ntb-jumat-dan-subuh-keliling.html)
 * [Amsi Ntb Kecam Ancaman Iklan Terkait](https://www.lombokepo.site/2026/11/amsi-ntb-kecam-ancaman-iklan-terkait.html)
 * [Smsi Ntb Soroti Dugaan Tekanan Amgm](https://www.lombokepo.site/2026/11/smsi-ntb-soroti-dugaan-tekanan-amgm.html)
 * [Polres Ksb Selidiki Dugaan Intimidasi Wartawan](https://www.lombokepo.site/2026/11/polres-ksb-selidiki-dugaan-intimidasi-wartawan.html)
-* [Pangdam Xxxrinambora Sambangi Kodim](https://www.lombokepo.site/2026/11/pangdam-xxxrinambora-sambangi-kodim.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 16 November 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 17 November 2026_
