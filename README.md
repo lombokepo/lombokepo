@@ -533,11 +533,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Apbd Ntb 2027 Harus Berdampak Nyata](https://www.lombokepo.site/2026/11/apbd-ntb-2027-harus-berdampak-nyata.html)
 * [Inspektorat Ntb Road To Hakordia Ntb](https://www.lombokepo.site/2026/11/inspektorat-ntb-road-to-hakordia-ntb.html)
 * [Wagub Ntb Tekankan Pentingnya Peran](https://www.lombokepo.site/2026/11/wagub-ntb-tekankan-pentingnya-peran.html)
 * [Wagub Ntb Sekolah Harus Bebas Bullying](https://www.lombokepo.site/2026/11/wagub-ntb-sekolah-harus-bebas-bullying.html)
 * [Pwnu Ntb Jumat Dan Subuh Keliling](https://www.lombokepo.site/2026/11/pwnu-ntb-jumat-dan-subuh-keliling.html)
-* [Amsi Ntb Kecam Ancaman Iklan Terkait](https://www.lombokepo.site/2026/11/amsi-ntb-kecam-ancaman-iklan-terkait.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 17 November 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 18 November 2026_
