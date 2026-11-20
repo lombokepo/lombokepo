@@ -538,11 +538,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Wagub Ntb Harapkan Sinergi Polda Terus](https://www.lombokepo.site/2026/11/wagub-ntb-harapkan-sinergi-polda-terus.html)
+* [Pemprov Ntb Perluas Gerakan Antikorupsi](https://www.lombokepo.site/2026/11/pemprov-ntb-perluas-gerakan-antikorupsi.html)
+* [Tiga Kasus Tppo Terungkap Polda Ntb](https://www.lombokepo.site/2026/11/tiga-kasus-tppo-terungkap-polda-ntb.html)
 * [Menbud Fadli Zon Dorong Kebudayaan](https://www.lombokepo.site/2026/11/menbud-fadli-zon-dorong-kebudayaan.html)
 * [Apbd Ntb 2027 Harus Berdampak Nyata](https://www.lombokepo.site/2026/11/apbd-ntb-2027-harus-berdampak-nyata.html)
-* [Inspektorat Ntb Road To Hakordia Ntb](https://www.lombokepo.site/2026/11/inspektorat-ntb-road-to-hakordia-ntb.html)
-* [Wagub Ntb Tekankan Pentingnya Peran](https://www.lombokepo.site/2026/11/wagub-ntb-tekankan-pentingnya-peran.html)
-* [Wagub Ntb Sekolah Harus Bebas Bullying](https://www.lombokepo.site/2026/11/wagub-ntb-sekolah-harus-bebas-bullying.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 20 November 2026_
