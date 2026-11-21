@@ -539,6 +539,7 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
 * [Wagub Ntb Harapkan Sinergi Polda Terus](https://www.lombokepo.site/2026/11/wagub-ntb-harapkan-sinergi-polda-terus.html)
 * [Pemprov Ntb Perluas Gerakan Antikorupsi](https://www.lombokepo.site/2026/11/pemprov-ntb-perluas-gerakan-antikorupsi.html)
@@ -546,4 +547,4 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 * [Menbud Fadli Zon Dorong Kebudayaan](https://www.lombokepo.site/2026/11/menbud-fadli-zon-dorong-kebudayaan.html)
 * [Apbd Ntb 2027 Harus Berdampak Nyata](https://www.lombokepo.site/2026/11/apbd-ntb-2027-harus-berdampak-nyata.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 20 November 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 21 November 2026_
