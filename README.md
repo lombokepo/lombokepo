@@ -543,11 +543,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Gubernur Ntb Tetapkan Ump 2027 Naik](https://www.lombokepo.site/2026/11/gubernur-ntb-tetapkan-ump-2027-naik.html)
+* [Pemprov Ntb Petakan Kompetensi 700 Asn](https://www.lombokepo.site/2026/11/pemprov-ntb-petakan-kompetensi-700-asn.html)
+* [Kemasan Tempe Berlubang Atau Tertutup](https://www.lombokepo.site/2026/11/kemasan-tempe-berlubang-atau-tertutup.html)
 * [Wagub Ntb Harapkan Sinergi Polda Terus](https://www.lombokepo.site/2026/11/wagub-ntb-harapkan-sinergi-polda-terus.html)
 * [Pemprov Ntb Perluas Gerakan Antikorupsi](https://www.lombokepo.site/2026/11/pemprov-ntb-perluas-gerakan-antikorupsi.html)
-* [Tiga Kasus Tppo Terungkap Polda Ntb](https://www.lombokepo.site/2026/11/tiga-kasus-tppo-terungkap-polda-ntb.html)
-* [Menbud Fadli Zon Dorong Kebudayaan](https://www.lombokepo.site/2026/11/menbud-fadli-zon-dorong-kebudayaan.html)
-* [Apbd Ntb 2027 Harus Berdampak Nyata](https://www.lombokepo.site/2026/11/apbd-ntb-2027-harus-berdampak-nyata.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 22 November 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 23 November 2026_
