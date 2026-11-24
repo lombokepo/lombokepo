@@ -546,11 +546,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Percepat Investasi Dan Pertumbuhan](https://www.lombokepo.site/2026/11/percepat-investasi-dan-pertumbuhan.html)
 * [Bank Ntb Syariah Selamat Ulang Tahun Ksb](https://www.lombokepo.site/2026/11/bank-ntb-syariah-selamat-ulang-tahun-ksb.html)
 * [Wakapolda Ntb Gelar Polisi Peduli](https://www.lombokepo.site/2026/11/wakapolda-ntb-gelar-polisi-peduli.html)
 * [Gubernur Ntb Tetapkan Ump 2027 Naik](https://www.lombokepo.site/2026/11/gubernur-ntb-tetapkan-ump-2027-naik.html)
 * [Pemprov Ntb Petakan Kompetensi 700 Asn](https://www.lombokepo.site/2026/11/pemprov-ntb-petakan-kompetensi-700-asn.html)
-* [Kemasan Tempe Berlubang Atau Tertutup](https://www.lombokepo.site/2026/11/kemasan-tempe-berlubang-atau-tertutup.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 24 November 2026_
