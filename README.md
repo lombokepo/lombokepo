@@ -551,11 +551,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Gubernur Iqbal Pengembangan Panas Bumi](https://www.lombokepo.site/2026/11/gubernur-iqbal-pengembangan-panas-bumi.html)
+* [Desa Beraksi Desa Berintegritas](https://www.lombokepo.site/2026/11/desa-beraksi-desa-berintegritas.html)
+* [Pemprov Ntb Dan Korlantas Polri Sinergi](https://www.lombokepo.site/2026/11/pemprov-ntb-dan-korlantas-polri-sinergi.html)
 * [Percepat Investasi Dan Pertumbuhan](https://www.lombokepo.site/2026/11/percepat-investasi-dan-pertumbuhan.html)
 * [Bank Ntb Syariah Selamat Ulang Tahun Ksb](https://www.lombokepo.site/2026/11/bank-ntb-syariah-selamat-ulang-tahun-ksb.html)
-* [Wakapolda Ntb Gelar Polisi Peduli](https://www.lombokepo.site/2026/11/wakapolda-ntb-gelar-polisi-peduli.html)
-* [Gubernur Ntb Tetapkan Ump 2027 Naik](https://www.lombokepo.site/2026/11/gubernur-ntb-tetapkan-ump-2027-naik.html)
-* [Pemprov Ntb Petakan Kompetensi 700 Asn](https://www.lombokepo.site/2026/11/pemprov-ntb-petakan-kompetensi-700-asn.html)
 
-_Diperbarui otomatis oleh sistem backend Lombokepo pada 26 November 2026_
+_Diperbarui otomatis oleh sistem backend Lombokepo pada 27 November 2026_
