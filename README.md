@@ -552,11 +552,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Siaga Bencana Di Ntb Polri Siapkan 1010](https://www.lombokepo.site/2026/11/siaga-bencana-di-ntb-polri-siapkan-1010.html)
 * [Gubernur Iqbal Pengembangan Panas Bumi](https://www.lombokepo.site/2026/11/gubernur-iqbal-pengembangan-panas-bumi.html)
 * [Desa Beraksi Desa Berintegritas](https://www.lombokepo.site/2026/11/desa-beraksi-desa-berintegritas.html)
 * [Pemprov Ntb Dan Korlantas Polri Sinergi](https://www.lombokepo.site/2026/11/pemprov-ntb-dan-korlantas-polri-sinergi.html)
 * [Percepat Investasi Dan Pertumbuhan](https://www.lombokepo.site/2026/11/percepat-investasi-dan-pertumbuhan.html)
-* [Bank Ntb Syariah Selamat Ulang Tahun Ksb](https://www.lombokepo.site/2026/11/bank-ntb-syariah-selamat-ulang-tahun-ksb.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 27 November 2026_
