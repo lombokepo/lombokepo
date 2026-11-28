@@ -554,11 +554,12 @@ Arsip Digital & Portofolio Jurnalistik lombokepo di GitHub.
 
 
 
+
 ## 📰 Berita NTB Terbaru
+* [Presiden Prabowo Hadiri Ptbi 2026 Wagub](https://www.lombokepo.site/2026/11/presiden-prabowo-hadiri-ptbi-2026-wagub.html)
+* [Gubernur Ntb Apresiasi Gubernur Cup](https://www.lombokepo.site/2026/11/gubernur-ntb-apresiasi-gubernur-cup.html)
 * [Siaga Bencana Di Ntb Polri Siapkan 1010](https://www.lombokepo.site/2026/11/siaga-bencana-di-ntb-polri-siapkan-1010.html)
 * [Gubernur Iqbal Pengembangan Panas Bumi](https://www.lombokepo.site/2026/11/gubernur-iqbal-pengembangan-panas-bumi.html)
 * [Desa Beraksi Desa Berintegritas](https://www.lombokepo.site/2026/11/desa-beraksi-desa-berintegritas.html)
-* [Pemprov Ntb Dan Korlantas Polri Sinergi](https://www.lombokepo.site/2026/11/pemprov-ntb-dan-korlantas-polri-sinergi.html)
-* [Percepat Investasi Dan Pertumbuhan](https://www.lombokepo.site/2026/11/percepat-investasi-dan-pertumbuhan.html)
 
 _Diperbarui otomatis oleh sistem backend Lombokepo pada 28 November 2026_
